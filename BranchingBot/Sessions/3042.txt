@@ -1,0 +1,14 @@
+userID|message|sendReceive|sentTime
+3042|what would you like to know?|0|02:45:34
+3042|weather|1|02:45:39
+3042|please enter the location.|0|02:45:39
+3042|arlington, texas|1|02:46:02
+3042|the weather in arlington is 75.76 degrees fahrenheit or 24.31 degrees celsius with heavy intensity rain.|0|02:46:03
+3042|would you like to try again?|0|02:46:03
+3042|yes|1|02:46:11
+3042|what would you like to know?|0|02:46:11
+3042|fact|1|02:46:14
+3042|a pregnant goldfish is called a twit.|0|02:46:14
+3042|would you like to try again?|0|02:46:14
+3042|no|1|02:46:20
+3042|thanks!|0|02:46:20

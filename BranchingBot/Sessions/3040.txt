@@ -1,0 +1,70 @@
+userID|message|sendReceive|sentTime
+3040|what would you like to know?|0|02:41:31
+3040|joke|1|02:41:38
+3040|did you hear about the cheese factory that exploded in france? there was nothing left but de brie.|0|02:41:38
+3040|would you like to try again?|0|02:41:38
+3040|yes|1|02:41:49
+3040|what would you like to know?|0|02:41:50
+3040|weather|1|02:41:53
+3040|please enter the location.|0|02:41:53
+3040|chennai|1|02:42:00
+3040|the weather in chennai is 89.60 degrees fahrenheit or 32.00 degrees celsius with haze.|0|02:42:00
+3040|would you like to try again?|0|02:42:00
+3040|yes|1|02:42:05
+3040|what would you like to know?|0|02:42:06
+3040|fact|1|02:42:08
+3040|the thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.|0|02:42:08
+3040|would you like to try again?|0|02:42:08
+3040|yes|1|02:42:18
+3040|what would you like to know?|0|02:42:19
+3040|weather|1|02:42:23
+3040|please enter the location.|0|02:42:23
+3040|chennai|1|02:42:26
+3040|the weather in chennai is 89.60 degrees fahrenheit or 32.00 degrees celsius with haze.|0|02:42:26
+3040|would you like to try again?|0|02:42:26
+3040|yes|1|02:42:30
+3040|what would you like to know?|0|02:42:30
+3040|joke|1|02:42:32
+3040|r.i.p. boiled water. you will be mist.|0|02:42:32
+3040|would you like to try again?|0|02:42:32
+3040|yes|1|02:42:40
+3040|what would you like to know?|0|02:42:40
+3040|joke|1|02:42:50
+3040|i needed a password eight characters long so i picked snow white and the seven dwarfs.|0|02:42:50
+3040|would you like to try again?|0|02:42:50
+3040|yes|1|02:43:04
+3040|what would you like to know?|0|02:43:04
+3040|joke|1|02:43:06
+3040|a termite walks into a bar and asks “is the bar tender here?”|0|02:43:06
+3040|would you like to try again?|0|02:43:06
+3040|yes|1|02:43:13
+3040|what would you like to know?|0|02:43:13
+3040|fact|1|02:43:16
+3040|thirty-five percent of people who use personal ads for dating are already married.|0|02:43:16
+3040|would you like to try again?|0|02:43:16
+3040|yes|1|02:43:23
+3040|what would you like to know?|0|02:43:23
+3040|fact|1|02:43:25
+3040|on an american one-dollar bill, there is an owl in the upper left-hand corner of the '1'encased in the 'shield' and a spider hidden in the front upper right-hand corner.|0|02:43:25
+3040|would you like to try again?|0|02:43:25
+3040|yes|1|02:43:34
+3040|what would you like to know?|0|02:43:34
+3040|weather|1|02:43:51
+3040|please enter the location.|0|02:43:51
+3040|redhills|1|02:43:58
+3040|the weather in redhills is 53.64 degrees fahrenheit or 12.02 degrees celsius with moderate rain.|0|02:43:59
+3040|would you like to try again?|0|02:43:59
+3040|yes|1|02:44:03
+3040|what would you like to know?|0|02:44:03
+3040|joke|1|02:44:05
+3040|what do you call cheese by itself? provolone.|0|02:44:05
+3040|would you like to try again?|0|02:44:05
+3040|yes|1|02:44:10
+3040|what would you like to know?|0|02:44:10
+3040|weather|1|02:44:15
+3040|please enter the location.|0|02:44:16
+3040|velachery|1|02:44:21
+3040|cannot get weather.|0|02:44:22
+3040|would you like to try again?|0|02:44:22
+3040|no|1|02:44:26
+3040|thanks!|0|02:44:26

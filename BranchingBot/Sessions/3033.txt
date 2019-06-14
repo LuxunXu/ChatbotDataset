@@ -1,0 +1,29 @@
+userID|message|sendReceive|sentTime
+3033|what would you like to know?|0|02:08:51
+3033|joke|1|02:08:54
+3033|i got a reversible jacket for christmas, i can't wait to see how it turns out.|0|02:08:55
+3033|would you like to try again?|0|02:08:55
+3033|yes|1|02:08:57
+3033|what would you like to know?|0|02:08:57
+3033|joke|1|02:08:59
+3033|i was going to learn how to juggle, but i didn't have the balls.|0|02:08:59
+3033|would you like to try again?|0|02:08:59
+3033|yes|1|02:09:14
+3033|what would you like to know?|0|02:09:14
+3033|weather|1|02:09:16
+3033|please enter the location.|0|02:09:16
+3033|columbia sc|1|02:09:31
+3033|the weather in columbia is 79.56 degrees fahrenheit or 26.42 degrees celsius with clear sky.|0|02:09:32
+3033|would you like to try again?|0|02:09:32
+3033|yes|1|02:09:39
+3033|what would you like to know?|0|02:09:39
+3033|fact|1|02:09:41
+3033|there were always 56 curls in shirley temple`s hair.|0|02:09:42
+3033|would you like to try again?|0|02:09:42
+3033|yes|1|02:09:48
+3033|what would you like to know?|0|02:09:48
+3033|fact|1|02:09:49
+3033|there are no clocks in las vegas gambling casinos.|0|02:09:49
+3033|would you like to try again?|0|02:09:49
+3033|no|1|02:09:54
+3033|thanks!|0|02:09:54

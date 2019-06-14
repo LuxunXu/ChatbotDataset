@@ -1,0 +1,48 @@
+userID|message|sendReceive|sentTime
+3039|what would you like to know?|0|02:36:29
+3039|weather|1|02:36:33
+3039|please enter the location.|0|02:36:33
+3039|cleveland|1|02:36:48
+3039|the weather in cleveland is 70.59 degrees fahrenheit or 21.44 degrees celsius with overcast clouds.|0|02:36:49
+3039|would you like to try again?|0|02:36:49
+3039|yes|1|02:36:57
+3039|what would you like to know?|0|02:36:57
+3039|joke|1|02:36:59
+3039|'i'll call you later.' don't call me later, call me dad.|0|02:36:59
+3039|would you like to try again?|0|02:36:59
+3039|yes|1|02:37:04
+3039|what would you like to know?|0|02:37:04
+3039|fact|1|02:37:06
+3039|the boston university bridge (on commonwealth avenue, boston, massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.|0|02:37:07
+3039|would you like to try again?|0|02:37:07
+3039|yes|1|02:37:10
+3039|what would you like to know?|0|02:37:10
+3039|weather|1|02:37:13
+3039|please enter the location.|0|02:37:13
+3039|philly|1|02:37:34
+3039|the weather in philadelphia is 70.97 degrees fahrenheit or 21.65 degrees celsius with heavy intensity rain.|0|02:37:35
+3039|would you like to try again?|0|02:37:35
+3039|no|1|02:37:38
+3039|sorry, i didn't get that.|0|02:37:58
+3039|would you like to try again?|0|02:37:58
+3039|yes|1|02:38:02
+3039|what would you like to know?|0|02:38:03
+3039|weather|1|02:38:11
+3039|please enter the location.|0|02:38:11
+3039|ohio|1|02:38:19
+3039|the weather in ohio is 69.96 degrees fahrenheit or 21.09 degrees celsius with light rain.|0|02:38:20
+3039|would you like to try again?|0|02:38:20
+3039|tampa|1|02:38:30
+3039|sorry, i didn't get that.|0|02:38:40
+3039|would you like to try again?|0|02:38:40
+3039|virginia|1|02:39:00
+3039|sorry, i didn't get that.|0|02:39:00
+3039|would you like to try again?|0|02:39:00
+3039|dallas|1|02:39:08
+3039|sorry, i didn't get that.|0|02:39:08
+3039|would you like to try again?|0|02:39:08
+3039|houston|1|02:39:38
+3039|sorry, i didn't get that.|0|02:39:38
+3039|would you like to try again?|0|02:39:38
+3039|no|1|02:39:41
+3039|thanks!|0|02:39:41

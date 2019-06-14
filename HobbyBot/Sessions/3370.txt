@@ -1,0 +1,7 @@
+userID|message|sendReceive|sentTime
+3370|please answer the following question.|0|06:04:00
+3370|how often do you listen to music?|0|06:04:00
+3370|never|1|06:04:10
+3370|what other hobbies do you have?|0|06:04:10
+3370|ceramics|1|06:04:21
+3370|thanks!|0|06:04:21

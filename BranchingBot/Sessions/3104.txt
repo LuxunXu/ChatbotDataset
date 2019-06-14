@@ -1,0 +1,12 @@
+userID|message|sendReceive|sentTime
+3104|what would you like to know?|0|07:22:51
+3104|fact|1|07:22:54
+3104|a pig`s orgasm lasts for 30 minutes.|0|07:22:55
+3104|would you like to try again?|0|07:22:55
+3104|yes|1|07:22:59
+3104|what would you like to know?|0|07:22:59
+3104|joke|1|07:23:00
+3104|where did you learn to make ice cream? sunday school.|0|07:23:01
+3104|would you like to try again?|0|07:23:01
+3104|no|1|07:23:04
+3104|thanks!|0|07:23:04

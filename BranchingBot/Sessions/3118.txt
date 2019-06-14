@@ -1,0 +1,30 @@
+userID|message|sendReceive|sentTime
+3118|what would you like to know?|0|08:56:18
+3118|joke|1|08:57:03
+3118|i had a dream that i was a muffler last night. i woke up exhausted!|0|08:57:04
+3118|would you like to try again?|0|08:57:04
+3118|yes|1|08:57:16
+3118|what would you like to know?|0|08:57:16
+3118|joke|1|08:57:33
+3118|shout out to my grandma, that's the only way she can hear.|0|08:57:33
+3118|would you like to try again?|0|08:57:33
+3118|yes|1|08:57:46
+3118|what would you like to know?|0|08:57:46
+3118|joke|1|08:57:52
+3118|without geometry life is pointless.|0|08:57:52
+3118|would you like to try again?|0|08:57:52
+3118|yes|1|08:57:57
+3118|what would you like to know?|0|08:57:57
+3118|fact|1|08:57:59
+3118|no word in the english language rhymes with month, orange, silver and purple.|0|08:58:06
+3118|would you like to try again?|0|08:58:06
+3118|good.|1|08:59:04
+3118|sorry, i didn't get that.|0|08:59:04
+3118|would you like to try again?|0|08:59:04
+3118|yes|1|08:59:14
+3118|what would you like to know?|0|08:59:14
+3118|fact|1|08:59:17
+3118|you spend 7 years of your life in the bathroom.|0|08:59:17
+3118|would you like to try again?|0|08:59:17
+3118|no|1|08:59:35
+3118|thanks!|0|08:59:35

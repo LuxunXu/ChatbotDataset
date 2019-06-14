@@ -1,0 +1,22 @@
+userID|message|sendReceive|sentTime
+3128|what would you like to know?|0|11:39:53
+3128|weather|1|11:40:02
+3128|please enter the location.|0|11:40:02
+3128|moscow, russia|1|11:40:13
+3128|the weather in moscow is 76.55 degrees fahrenheit or 24.75 degrees celsius with clear sky.|0|11:40:13
+3128|would you like to try again?|0|11:40:13
+3128|yes|1|11:40:19
+3128|what would you like to know?|0|11:40:19
+3128|joke|1|11:40:21
+3128|i used to be addicted to the hokey pokey, but i turned myself around.|0|11:40:22
+3128|would you like to try again?|0|11:40:22
+3128|yes|1|11:40:30
+3128|what would you like to know?|0|11:40:31
+3128|fact|1|11:40:37
+3128|the boston university bridge (on commonwealth avenue, boston, massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.|0|11:40:40
+3128|would you like to try again?|0|11:40:40
+3128|very interesting!|1|11:40:49
+3128|sorry, i didn't get that.|0|11:40:50
+3128|would you like to try again?|0|11:40:50
+3128|no|1|11:40:52
+3128|thanks!|0|11:40:53

@@ -1,0 +1,13 @@
+userID|message|sendReceive|sentTime
+3754|please answer the following question.|0|04:18:39
+3754|how often do you listen to music?|0|04:18:39
+3754|never|1|04:18:52
+3754|what other hobbies do you have?|0|04:18:52
+3754|please answer the following question.|0|04:19:10
+3754|how often do you listen to music?|0|04:19:10
+3754|quite often|1|04:19:21
+3754|what is your favorite genre?|0|04:19:21
+3754|alternative|1|04:19:30
+3754|what other hobbies do you have?|0|04:19:30
+3754|making crafts, hiking, decorating|1|04:20:05
+3754|thanks!|0|04:20:05

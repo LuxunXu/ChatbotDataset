@@ -1,0 +1,38 @@
+userID|message|sendReceive|sentTime
+3049|what would you like to know?|0|03:28:03
+3049|fact|1|03:28:06
+3049|who`s that playing the piano on the 'mad about you' theme? paul reiser himself.|0|03:28:07
+3049|would you like to try again?|0|03:28:07
+3049|yes|1|03:28:14
+3049|what would you like to know?|0|03:28:14
+3049|weather|1|03:28:18
+3049|please enter the location.|0|03:28:19
+3049|rochester, new york|1|03:28:30
+3049|the weather in rochester is 62.15 degrees fahrenheit or 16.75 degrees celsius with broken clouds.|0|03:28:31
+3049|would you like to try again?|0|03:28:31
+3049|yes|1|03:28:38
+3049|what would you like to know?|0|03:28:38
+3049|joke|1|03:28:52
+3049|i’ve just been reading a book about anti-gravity, it’s impossible to put down!|0|03:28:53
+3049|would you like to try again?|0|03:28:53
+3049|yes|1|03:28:57
+3049|what would you like to know?|0|03:28:57
+3049|fact|1|03:28:59
+3049|kelsey grammar sings and plays the piano for the theme song of fraiser.|0|03:28:59
+3049|would you like to try again?|0|03:28:59
+3049|yes|1|03:29:03
+3049|what would you like to know?|0|03:29:03
+3049|fact|1|03:29:04
+3049|what was miles davis' middle name?|1|03:29:20
+3049|sorry, i didn't get that.|0|03:29:20
+3049|what would you like to know?|0|03:29:21
+3049|what instrument did art blakey play?|1|03:29:44
+3049|sorry, i didn't get that.|0|03:29:45
+3049|what would you like to know?|0|03:29:45
+3049|weather|1|03:29:50
+3049|please enter the location.|0|03:29:50
+3049|tulsa, ok|1|03:30:01
+3049|the weather in tulsa is 72.23 degrees fahrenheit or 22.35 degrees celsius with light rain.|0|03:30:01
+3049|would you like to try again?|0|03:30:01
+3049|no|1|03:30:04
+3049|thanks!|0|03:30:05

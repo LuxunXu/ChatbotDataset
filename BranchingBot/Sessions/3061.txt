@@ -1,0 +1,20 @@
+userID|message|sendReceive|sentTime
+3061|what would you like to know?|0|04:12:11
+3061|joke|1|04:12:41
+3061|without geometry life is pointless.|0|04:12:42
+3061|would you like to try again?|0|04:12:42
+3061|yes|1|04:12:48
+3061|what would you like to know?|0|04:12:48
+3061|fact|1|04:12:52
+3061|facr|1|04:13:13
+3061|sorry, i didn't get that.|0|04:13:13
+3061|what would you like to know?|0|04:13:13
+3061|fact|1|04:13:17
+3061|what would you like to know?|0|04:13:34
+3061|weather|1|04:13:36
+3061|please enter the location.|0|04:13:37
+3061|gordo, i al|1|04:14:09
+3061|cannot get weather.|0|04:14:10
+3061|would you like to try again?|0|04:14:10
+3061|no|1|04:14:13
+3061|thanks!|0|04:14:13

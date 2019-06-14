@@ -1,0 +1,19 @@
+userID|message|sendReceive|sentTime
+3017|what would you like to know?|0|01:19:02
+3017|weather|1|01:19:06
+3017|please enter the location.|0|01:19:06
+3017|san antonio texas|1|01:19:15
+3017|the weather in san antonio is 83.43 degrees fahrenheit or 28.57 degrees celsius with shower rain.|0|01:19:15
+3017|would you like to try again?|0|01:19:15
+3017|yes|1|01:19:21
+3017|what would you like to know?|0|01:19:21
+3017|joke|1|01:19:23
+3017|people saying 'boo! to their friends has risen by 85% in the last year.... that's a frightening statistic.|0|01:19:23
+3017|would you like to try again?|0|01:19:23
+3017|yes|1|01:19:29
+3017|what would you like to know?|0|01:19:30
+3017|fact|1|01:19:31
+3017|james bond`s car had three different license plates in goldfinger|0|01:19:32
+3017|would you like to try again?|0|01:19:32
+3017|no|1|01:19:41
+3017|thanks!|0|01:19:42

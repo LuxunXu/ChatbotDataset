@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3788|please answer the following question.|0|21:46:58
+3788|how often do you listen to music?|0|21:46:58
+3788|almost every day|1|21:47:10
+3788|what is your favorite genre?|0|21:47:10
+3788|my taste is eclectic, i like top 40 and i like folk, rock, etc|1|21:48:10
+3788|what other hobbies do you have?|0|21:48:10
+3788|i love to read|1|21:48:18
+3788|thanks!|0|21:48:18

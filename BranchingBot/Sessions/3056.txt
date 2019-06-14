@@ -1,0 +1,29 @@
+userID|message|sendReceive|sentTime
+3056|what would you like to know?|0|03:57:54
+3056|joke|1|03:58:16
+3056|this morning i was wondering where the sun was, but then it dawned on me.|0|03:58:17
+3056|would you like to try again?|0|03:58:17
+3056|yes|1|03:58:28
+3056|what would you like to know?|0|03:58:28
+3056|weather|1|03:58:30
+3056|please enter the location.|0|03:58:30
+3056|terre haute indiana|1|03:58:52
+3056|the weather in terre haute is 67.84 degrees fahrenheit or 19.91 degrees celsius with moderate rain.|0|03:58:53
+3056|would you like to try again?|0|03:58:53
+3056|yes|1|03:58:59
+3056|what would you like to know?|0|03:58:59
+3056|fact|1|03:59:00
+3056|who is the 35th president of usa|1|03:59:38
+3056|sorry, i didn't get that.|0|03:59:38
+3056|what would you like to know?|0|03:59:38
+3056|who was the first person on the moon|1|04:00:03
+3056|sorry, i didn't get that.|0|04:00:03
+3056|what would you like to know?|0|04:00:03
+3056|what is the size of the universe|1|04:00:28
+3056|sorry, i didn't get that.|0|04:00:28
+3056|what would you like to know?|0|04:00:28
+3056|joke|1|04:00:32
+3056|did you hear about the cow who jumped over the barbed wire fence? it was udder destruction.|0|04:00:33
+3056|would you like to try again?|0|04:00:33
+3056|no|1|04:00:38
+3056|thanks!|0|04:00:38

@@ -1,0 +1,25 @@
+userID|message|sendReceive|sentTime
+3100|what would you like to know?|0|06:59:49
+3100|fact|1|06:59:54
+3100|john f kennedy death report?|1|07:00:25
+3100|sorry, i didn't get that.|0|07:00:25
+3100|what would you like to know?|0|07:00:25
+3100|joke|1|07:00:31
+3100|what did the traffic light say to the car as it passed? 'don't look i'm changing!'|0|07:00:32
+3100|would you like to try again?|0|07:00:32
+3100|yes|1|07:00:41
+3100|what would you like to know?|0|07:00:41
+3100|weather|1|07:00:43
+3100|please enter the location.|0|07:00:43
+3100|chennai|1|07:00:51
+3100|the weather in chennai is 95.00 degrees fahrenheit or 35.00 degrees celsius with few clouds.|0|07:00:53
+3100|would you like to try again?|0|07:00:53
+3100|yes|1|07:00:59
+3100|what would you like to know?|0|07:00:59
+3100|weather|1|07:01:02
+3100|please enter the location.|0|07:01:02
+3100|madurai|1|07:01:07
+3100|the weather in madurai is 96.80 degrees fahrenheit or 36.00 degrees celsius with few clouds.|0|07:01:08
+3100|would you like to try again?|0|07:01:08
+3100|no|1|07:01:12
+3100|thanks!|0|07:01:12

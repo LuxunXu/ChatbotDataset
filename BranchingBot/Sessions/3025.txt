@@ -1,0 +1,7 @@
+userID|message|sendReceive|sentTime
+3025|what would you like to know?|0|01:31:34
+3025|joke|1|01:31:43
+3025|a magician was driving down the street and then he turned into a driveway.|0|01:31:43
+3025|would you like to try again?|0|01:31:43
+3025|no|1|01:31:56
+3025|thanks!|0|01:31:57

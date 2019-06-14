@@ -1,0 +1,7 @@
+userID|message|sendReceive|sentTime
+3131|what would you like to know?|0|11:50:40
+3131|fact|1|11:51:07
+3131|cats urine glows under a black light.|0|11:51:11
+3131|would you like to try again?|0|11:51:11
+3131|i did not know that.|1|11:51:31
+3131|thanks!|0|11:51:31

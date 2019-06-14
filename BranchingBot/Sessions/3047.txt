@@ -1,0 +1,19 @@
+userID|message|sendReceive|sentTime
+3047|what would you like to know?|0|03:14:45
+3047|joke|1|03:14:49
+3047|what did the ocean say to the beach? thanks for all the sediment.|0|03:14:50
+3047|would you like to try again?|0|03:14:50
+3047|yes|1|03:15:02
+3047|what would you like to know?|0|03:15:03
+3047|fact|1|03:15:06
+3047|the highest per capita jell-o comsumption in the us is des moines.|0|03:15:06
+3047|would you like to try again?|0|03:15:06
+3047|yes|1|03:15:15
+3047|what would you like to know?|0|03:15:15
+3047|weather|1|03:15:16
+3047|please enter the location.|0|03:15:16
+3047|boston|1|03:15:26
+3047|the weather in boston is 62.38 degrees fahrenheit or 16.88 degrees celsius with mist.|0|03:15:27
+3047|would you like to try again?|0|03:15:27
+3047|no|1|03:15:33
+3047|thanks!|0|03:15:33

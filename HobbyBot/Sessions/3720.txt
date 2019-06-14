@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3720|please answer the following question.|0|05:21:07
+3720|how often do you listen to music?|0|05:21:07
+3720|very often1|1|05:21:19
+3720|what is your favorite genre?|0|05:21:20
+3720|alternative music|1|05:21:34
+3720|what other hobbies do you have?|0|05:21:35
+3720|i really like baking muffins|1|05:21:55
+3720|thanks!|0|05:21:56

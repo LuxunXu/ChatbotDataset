@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3054|what would you like to know?|0|03:54:44
+3054|weather|1|03:54:48
+3054|please enter the location.|0|03:54:48
+3054|chula vista, california|1|03:54:57
+3054|the weather in chula vista is 68.72 degrees fahrenheit or 20.40 degrees celsius with broken clouds.|0|03:54:58
+3054|would you like to try again?|0|03:54:58
+3054|no|1|03:55:02
+3054|thanks!|0|03:55:03

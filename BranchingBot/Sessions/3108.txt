@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3108|what would you like to know?|0|07:55:16
+3108|weather|1|07:55:20
+3108|please enter the location.|0|07:55:20
+3108|reims|1|07:55:26
+3108|the weather in reims is 55.40 degrees fahrenheit or 13.00 degrees celsius with clear sky.|0|07:55:26
+3108|would you like to try again?|0|07:55:26
+3108|no|1|07:55:36
+3108|thanks!|0|07:55:36

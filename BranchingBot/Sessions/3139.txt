@@ -1,0 +1,19 @@
+userID|message|sendReceive|sentTime
+3139|what would you like to know?|0|12:19:19
+3139|fact|1|12:19:30
+3139|every time you lick a stamp, you consume 1/10 of a calorie.|0|12:19:34
+3139|would you like to try again?|0|12:19:34
+3139|yes|1|12:19:40
+3139|what would you like to know?|0|12:19:41
+3139|joke|1|12:19:43
+3139|i’m on a whiskey diet. i’ve lost three days already.|0|12:19:48
+3139|would you like to try again?|0|12:19:48
+3139|yes|1|12:19:53
+3139|what would you like to know?|0|12:19:53
+3139|weather|1|12:19:55
+3139|please enter the location.|0|12:19:55
+3139|jasper, indiana|1|12:20:05
+3139|the weather in jasper is 71.85 degrees fahrenheit or 22.14 degrees celsius with broken clouds.|0|12:20:06
+3139|would you like to try again?|0|12:20:06
+3139|no|1|12:20:13
+3139|thanks!|0|12:20:13

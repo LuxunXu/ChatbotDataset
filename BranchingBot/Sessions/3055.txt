@@ -1,0 +1,45 @@
+userID|message|sendReceive|sentTime
+3055|what would you like to know?|0|03:56:43
+3055|joke|1|03:56:46
+3055|i used to hate facial hair, but then it grew on me.|0|03:56:47
+3055|would you like to try again?|0|03:56:47
+3055|yes|1|03:56:54
+3055|what would you like to know?|0|03:56:54
+3055|joke|1|03:56:56
+3055|so a duck walks into a pharmacy and says “give me some chap-stick… and put it on my bill”|0|03:56:56
+3055|would you like to try again?|0|03:56:56
+3055|yes|1|03:57:13
+3055|what would you like to know?|0|03:57:13
+3055|weather|1|03:57:14
+3055|please enter the location.|0|03:57:15
+3055|78666|1|03:57:21
+3055|sorry, i didn't get that.|0|03:57:21
+3055|please enter the location.|0|03:57:21
+3055|san marcos texas|1|03:57:27
+3055|the weather in san marcos is 80.33 degrees fahrenheit or 26.85 degrees celsius with few clouds.|0|03:57:27
+3055|would you like to try again?|0|03:57:27
+3055|yes|1|03:57:33
+3055|what would you like to know?|0|03:57:33
+3055|fact|1|03:57:34
+3055|hi|1|03:57:56
+3055|what would you like to know?|0|03:57:56
+3055|fact|1|03:57:58
+3055|bfgf|1|03:58:03
+3055|sorry, i didn't get that.|0|03:58:03
+3055|what would you like to know?|0|03:58:03
+3055|weather|1|03:58:05
+3055|please enter the location.|0|03:58:05
+3055|new york|1|03:58:12
+3055|the weather in new york is 70.18 degrees fahrenheit or 21.21 degrees celsius with overcast clouds.|0|03:58:12
+3055|would you like to try again?|0|03:58:12
+3055|yes|1|03:58:16
+3055|what would you like to know?|0|03:58:16
+3055|fact|1|03:58:17
+3055|kk|1|03:58:21
+3055|sorry, i didn't get that.|0|03:58:21
+3055|what would you like to know?|0|03:58:21
+3055|joke|1|03:58:23
+3055|q: what’s 50 cent’s name in zimbabwe? a: 200 dollars.|0|03:58:23
+3055|would you like to try again?|0|03:58:23
+3055|no|1|03:58:30
+3055|thanks!|0|03:58:30

@@ -1,0 +1,12 @@
+userID|message|sendReceive|sentTime
+3026|what would you like to know?|0|01:32:31
+3026|joke|1|01:32:36
+3026|someone broke into my house last night and stole my limbo trophy. how low can you go?|0|01:32:37
+3026|would you like to try again?|0|01:32:37
+3026|yes|1|01:32:43
+3026|what would you like to know?|0|01:32:43
+3026|joke|1|01:32:47
+3026|i was just looking at my ceiling. not sure if it’s the best ceiling in the world, but it’s definitely up there.|0|01:32:47
+3026|would you like to try again?|0|01:32:47
+3026|no|1|01:32:57
+3026|thanks!|0|01:32:57

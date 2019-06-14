@@ -1,0 +1,16 @@
+userID|message|sendReceive|sentTime
+3089|what would you like to know?|0|05:39:57
+3089|weather|1|05:40:35
+3089|please enter the location.|0|05:40:36
+3089|mawai india|1|05:40:42
+3089|the weather in republic of india is 81.98 degrees fahrenheit or 27.77 degrees celsius with clear sky.|0|05:40:42
+3089|would you like to try again?|0|05:40:42
+3089|yes|1|05:40:49
+3089|what would you like to know?|0|05:40:49
+3089|weather|1|05:40:52
+3089|please enter the location.|0|05:40:52
+3089|mawai india is the location. please change the unit to degree celcius|1|05:42:06
+3089|the weather in republic of india is 81.98 degrees fahrenheit or 27.77 degrees celsius with clear sky.|0|05:42:07
+3089|would you like to try again?|0|05:42:07
+3089|no|1|05:42:17
+3089|thanks!|0|05:42:17

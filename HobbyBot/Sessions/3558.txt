@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3558|please answer the following question.|0|11:25:35
+3558|how often do you listen to music?|0|11:25:35
+3558|sometimes|1|11:25:57
+3558|what is your favorite genre?|0|11:25:57
+3558|country, classical|1|11:26:25
+3558|what other hobbies do you have?|0|11:26:25
+3558|dancing, gardening|1|11:26:50
+3558|thanks!|0|11:26:50

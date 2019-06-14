@@ -1,0 +1,19 @@
+userID|message|sendReceive|sentTime
+3024|what would you like to know?|0|01:25:11
+3024|weather|1|01:25:16
+3024|please enter the location.|0|01:25:16
+3024|area code 15601|1|01:25:33
+3024|sorry, i didn't get that.|0|01:25:34
+3024|please enter the location.|0|01:25:34
+3024|greensburg, pa|1|01:25:56
+3024|the weather in greensburg is 72.55 degrees fahrenheit or 22.53 degrees celsius with mist.|0|01:25:57
+3024|would you like to try again?|0|01:25:57
+3024|yes|1|01:26:02
+3024|what would you like to know?|0|01:26:02
+3024|weather|1|01:26:05
+3024|please enter the location.|0|01:26:05
+3024|greensburg, pa|1|01:26:26
+3024|the weather in greensburg is 72.55 degrees fahrenheit or 22.53 degrees celsius with mist.|0|01:26:27
+3024|would you like to try again?|0|01:26:27
+3024|no|1|01:26:29
+3024|thanks!|0|01:26:29

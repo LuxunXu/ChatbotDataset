@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3051|what would you like to know?|0|03:47:28
+3051|weather|1|03:47:31
+3051|please enter the location.|0|03:47:31
+3051|dallas|1|03:47:40
+3051|the weather in dallas is 75.47 degrees fahrenheit or 24.15 degrees celsius with moderate rain.|0|03:47:40
+3051|would you like to try again?|0|03:47:40
+3051|no|1|03:47:48
+3051|thanks!|0|03:47:48

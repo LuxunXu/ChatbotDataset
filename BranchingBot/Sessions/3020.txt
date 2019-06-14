@@ -1,0 +1,12 @@
+userID|message|sendReceive|sentTime
+3020|what would you like to know?|0|01:20:55
+3020|weather|1|01:20:58
+3020|please enter the location.|0|01:20:58
+3020|29617|1|01:21:03
+3020|sorry, i didn't get that.|0|01:21:04
+3020|please enter the location.|0|01:21:04
+3020|greenville, sc|1|01:21:12
+3020|the weather in greenville is 79.43 degrees fahrenheit or 26.35 degrees celsius with scattered clouds.|0|01:21:12
+3020|would you like to try again?|0|01:21:12
+3020|no|1|01:21:17
+3020|thanks!|0|01:21:17

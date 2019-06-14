@@ -1,0 +1,24 @@
+userID|message|sendReceive|sentTime
+3141|what would you like to know?|0|12:43:54
+3141|joke|1|12:44:06
+3141|what's red and bad for your teeth? a brick.|0|12:44:06
+3141|would you like to try again?|0|12:44:06
+3141|yes|1|12:44:18
+3141|what would you like to know?|0|12:44:18
+3141|weather|1|12:44:21
+3141|please enter the location.|0|12:44:21
+3141|middlebury|1|12:44:31
+3141|the weather in middlebury is 52.68 degrees fahrenheit or 11.49 degrees celsius with scattered clouds.|0|12:44:31
+3141|would you like to try again?|0|12:44:32
+3141|yes|1|12:44:39
+3141|what would you like to know?|0|12:44:39
+3141|fact|1|12:44:41
+3141|on an american one-dollar bill, there is an owl in the upper left-hand corner of the '1'encased in the 'shield' and a spider hidden in the front upper right-hand corner.|0|12:44:41
+3141|would you like to try again?|0|12:44:41
+3141|yes|1|12:44:50
+3141|what would you like to know?|0|12:44:51
+3141|joke|1|12:44:53
+3141|why couldn't the kid see the pirate movie? because it was rated arrr!|0|12:44:54
+3141|would you like to try again?|0|12:44:54
+3141|no|1|12:45:17
+3141|thanks!|0|12:45:17

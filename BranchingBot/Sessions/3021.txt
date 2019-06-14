@@ -1,0 +1,7 @@
+userID|message|sendReceive|sentTime
+3021|what would you like to know?|0|01:23:31
+3021|fact|1|01:23:35
+3021|2,000 pounds of space dust and other space debris fall on the earth every day.|0|01:23:35
+3021|would you like to try again?|0|01:23:35
+3021|no|1|01:23:52
+3021|thanks!|0|01:23:52

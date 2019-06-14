@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3075|what would you like to know?|0|05:14:34
+3075|weather|1|05:14:39
+3075|please enter the location.|0|05:14:39
+3075|enschede|1|05:14:43
+3075|the weather in enschede is 51.80 degrees fahrenheit or 11.00 degrees celsius with clear sky.|0|05:14:44
+3075|would you like to try again?|0|05:14:44
+3075|no|1|05:14:51
+3075|thanks!|0|05:14:51

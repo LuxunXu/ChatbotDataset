@@ -1,0 +1,73 @@
+userID|message|sendReceive|sentTime
+3028|what would you like to know?|0|01:32:52
+3028|weather|1|01:32:55
+3028|please enter the location.|0|01:32:55
+3028|new york|1|01:33:02
+3028|the weather in new york is 71.20 degrees fahrenheit or 21.78 degrees celsius with light rain.|0|01:33:02
+3028|would you like to try again?|0|01:33:02
+3028|yes|1|01:33:07
+3028|what would you like to know?|0|01:33:07
+3028|fact|1|01:33:10
+3028|pinocchio is italian for 'pine head.'|0|01:33:10
+3028|would you like to try again?|0|01:33:10
+3028|yes|1|01:33:16
+3028|what would you like to know?|0|01:33:16
+3028|joke|1|01:33:19
+3028|who did the wizard marry? his ghoul-friend|0|01:33:19
+3028|would you like to try again?|0|01:33:19
+3028|yes|1|01:33:25
+3028|what would you like to know?|0|01:33:25
+3028|weather|1|01:33:27
+3028|please enter the location.|0|01:33:27
+3028|naples ny|1|01:33:32
+3028|cannot get weather.|0|01:33:33
+3028|would you like to try again?|0|01:33:33
+3028|rochester ny|1|01:33:45
+3028|sorry, i didn't get that.|0|01:33:45
+3028|would you like to try again?|0|01:33:45
+3028|?|1|01:34:46
+3028|sorry, i didn't get that.|0|01:34:46
+3028|would you like to try again?|0|01:34:46
+3028|fact|1|01:34:51
+3028|sorry, i didn't get that.|0|01:34:51
+3028|would you like to try again?|0|01:34:51
+3028|what would you like to know?|0|01:35:24
+3028|weather|1|01:35:26
+3028|please enter the location.|0|01:35:26
+3028|az|1|01:35:29
+3028|the weather in republic of azerbaijan is 63.63 degrees fahrenheit or 17.57 degrees celsius with clear sky.|0|01:35:30
+3028|would you like to try again?|0|01:35:30
+3028|yes|1|01:35:34
+3028|what would you like to know?|0|01:35:34
+3028|weather|1|01:35:36
+3028|please enter the location.|0|01:35:36
+3028|arizona|1|01:35:45
+3028|the weather in arizona is 83.41 degrees fahrenheit or 28.56 degrees celsius with clear sky.|0|01:35:45
+3028|would you like to try again?|0|01:35:45
+3028|yes|1|01:35:50
+3028|what would you like to know?|0|01:35:50
+3028|joke|1|01:35:52
+3028|what do you call an eagle who can play the piano? talonted!|0|01:35:52
+3028|would you like to try again?|0|01:35:52
+3028|yes|1|01:35:54
+3028|what would you like to know?|0|01:35:55
+3028|fact|1|01:35:56
+3028|there are more psychoanalysts per capita in buenos aires than any other place in the world.|0|01:35:57
+3028|would you like to try again?|0|01:35:57
+3028|yes|1|01:36:01
+3028|what would you like to know?|0|01:36:01
+3028|fact|1|01:36:03
+3028|there are 336 dimples on a regulation golf ball.|0|01:36:04
+3028|would you like to try again?|0|01:36:04
+3028|yes|1|01:36:08
+3028|what would you like to know?|0|01:36:09
+3028|fact|1|01:36:10
+3028|cbs` '60 minutes' is the only tv show without a theme song/music.|0|01:36:11
+3028|would you like to try again?|0|01:36:11
+3028|yes|1|01:36:18
+3028|what would you like to know?|0|01:36:18
+3028|fact|1|01:36:21
+3028|the very first bomb dropped by the allies on berlin during world war ii killed the only elephant in the berlin zoo.|0|01:36:21
+3028|would you like to try again?|0|01:36:21
+3028|no|1|01:36:26
+3028|thanks!|0|01:36:26

@@ -1,0 +1,12 @@
+userID|message|sendReceive|sentTime
+3107|what would you like to know?|0|07:41:25
+3107|joke|1|07:41:32
+3107|what do you call corn that joins the army? kernel.|0|07:41:33
+3107|would you like to try again?|0|07:41:33
+3107|yes|1|07:41:42
+3107|what would you like to know?|0|07:41:42
+3107|fact|1|07:41:46
+3107|there is approximately one chicken for every human being in the world.|0|07:41:49
+3107|would you like to try again?|0|07:41:49
+3107|no|1|07:41:58
+3107|thanks!|0|07:41:59

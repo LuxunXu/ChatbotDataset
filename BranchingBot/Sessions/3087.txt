@@ -1,0 +1,16 @@
+userID|message|sendReceive|sentTime
+3087|what would you like to know?|0|05:37:08
+3087|weather|1|05:37:15
+3087|please enter the location.|0|05:37:15
+3087|kerala|1|05:37:22
+3087|the weather in state of kerala is 84.20 degrees fahrenheit or 29.00 degrees celsius with haze.|0|05:37:23
+3087|would you like to try again?|0|05:37:23
+3087|yes|1|05:37:31
+3087|what would you like to know?|0|05:37:31
+3087|weather|1|05:37:35
+3087|please enter the location.|0|05:37:35
+3087|india|1|05:37:40
+3087|the weather in republic of india is 81.98 degrees fahrenheit or 27.77 degrees celsius with clear sky.|0|05:37:41
+3087|would you like to try again?|0|05:37:41
+3087|no|1|05:37:48
+3087|thanks!|0|05:37:48

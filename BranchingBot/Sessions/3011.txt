@@ -1,0 +1,22 @@
+userID|message|sendReceive|sentTime
+3011|what would you like to know?|0|01:06:55
+3011|weather|1|01:07:00
+3011|please enter the location.|0|01:07:01
+3011|london ontario|1|01:07:11
+3011|the weather in london is 62.60 degrees fahrenheit or 17.00 degrees celsius with overcast clouds.|0|01:07:12
+3011|would you like to try again?|0|01:07:12
+3011|yes|1|01:07:18
+3011|what would you like to know?|0|01:07:18
+3011|joke|1|01:07:21
+3011|have you heard about the film 'constipation', you probably haven't because it's not out yet.|0|01:07:22
+3011|would you like to try again?|0|01:07:22
+3011|yes|1|01:07:28
+3011|what would you like to know?|0|01:07:28
+3011|fact|1|01:07:30
+3011|shakespeare spelled his own name several different ways.|0|01:07:30
+3011|would you like to try again?|0|01:07:30
+3011|what's new?|1|01:08:02
+3011|sorry, i didn't get that.|0|01:08:03
+3011|would you like to try again?|0|01:08:03
+3011|no|1|01:08:06
+3011|thanks!|0|01:08:06

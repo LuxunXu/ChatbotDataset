@@ -1,0 +1,15 @@
+userID|message|sendReceive|sentTime
+3113|what would you like to know?|0|08:35:10
+3113|weather|1|08:35:16
+3113|please enter the location.|0|08:35:17
+3113|83455|1|08:35:27
+3113|sorry, i didn't get that.|0|08:35:27
+3113|please enter the location.|0|08:35:27
+3113|83549|1|08:35:32
+3113|sorry, i didn't get that.|0|08:35:32
+3113|please enter the location.|0|08:35:32
+3113|denver colorado|1|08:35:41
+3113|the weather in denver is 55.26 degrees fahrenheit or 12.92 degrees celsius with clear sky.|0|08:35:42
+3113|would you like to try again?|0|08:35:42
+3113|no|1|08:35:46
+3113|thanks!|0|08:35:46

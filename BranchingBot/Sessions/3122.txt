@@ -1,0 +1,12 @@
+userID|message|sendReceive|sentTime
+3122|what would you like to know?|0|10:07:38
+3122|joke|1|10:07:47
+3122|someone broke into my house last night and stole my limbo trophy. how low can you go?|0|10:07:48
+3122|would you like to try again?|0|10:07:48
+3122|yes|1|10:08:06
+3122|what would you like to know?|0|10:08:06
+3122|fact|1|10:08:10
+3122|an ostrich`s eye is bigger than its brain.  |0|10:08:14
+3122|would you like to try again?|0|10:08:14
+3122|no|1|10:08:33
+3122|thanks!|0|10:08:33

@@ -1,0 +1,13 @@
+userID|message|sendReceive|sentTime
+3095|what would you like to know?|0|06:44:58
+3095|joke|1|06:45:10
+3095|i couldn't figure out how the seat belt worked. then it just clicked.|0|06:45:10
+3095|would you like to try again?|0|06:45:10
+3095|hello?|1|06:45:29
+3095|sorry, i didn't get that.|0|06:45:29
+3095|would you like to try again?|0|06:45:29
+3095|huhu??|1|06:46:07
+3095|sorry, i didn't get that.|0|06:46:07
+3095|would you like to try again?|0|06:46:07
+3095|you are not a nice bot or very slow|1|06:46:24
+3095|thanks!|0|06:46:24

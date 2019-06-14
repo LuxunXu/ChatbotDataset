@@ -1,0 +1,7 @@
+userID|message|sendReceive|sentTime
+3044|what would you like to know?|0|03:08:06
+3044|joke|1|03:08:12
+3044|want to hear a chimney joke? got stacks of em! first one's on the house|0|03:08:13
+3044|would you like to try again?|0|03:08:13
+3044|no|1|03:08:17
+3044|thanks!|0|03:08:17

@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3114|what would you like to know?|0|08:44:41
+3114|weather|1|08:44:52
+3114|please enter the location.|0|08:44:52
+3114|chicago|1|08:44:57
+3114|the weather in chicago is 63.72 degrees fahrenheit or 17.62 degrees celsius with clear sky.|0|08:44:58
+3114|would you like to try again?|0|08:44:58
+3114|no|1|08:45:03
+3114|thanks!|0|08:45:03

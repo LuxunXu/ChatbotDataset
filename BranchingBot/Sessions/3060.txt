@@ -1,0 +1,32 @@
+userID|message|sendReceive|sentTime
+3060|what would you like to know?|0|04:09:53
+3060|how to cook spaghetti|1|04:10:06
+3060|sorry, i didn't get that.|0|04:10:06
+3060|what would you like to know?|0|04:10:06
+3060|how do i cook spaghetti?|1|04:10:16
+3060|sorry, i didn't get that.|0|04:10:16
+3060|what would you like to know?|0|04:10:16
+3060|what is the weather going to be like tomorrow?|1|04:10:34
+3060|please enter the location.|0|04:10:34
+3060|chattanooga|1|04:10:41
+3060|the weather in chattanooga is 74.66 degrees fahrenheit or 23.70 degrees celsius with broken clouds.|0|04:10:41
+3060|would you like to try again?|0|04:10:41
+3060|yes|1|04:10:53
+3060|what would you like to know?|0|04:10:53
+3060|tell me a dirty joke|1|04:11:02
+3060|how many apples grow on a tree? all of them!|0|04:11:02
+3060|would you like to try again?|0|04:11:02
+3060|yes|1|04:11:06
+3060|what would you like to know?|0|04:11:06
+3060|what is the population of new york city?|1|04:11:18
+3060|sorry, i didn't get that.|0|04:11:19
+3060|what would you like to know?|0|04:11:19
+3060|fact|1|04:11:23
+3060|what is the population of the us|1|04:11:36
+3060|sorry, i didn't get that.|0|04:11:36
+3060|what would you like to know?|0|04:11:36
+3060|joke|1|04:11:42
+3060|why did the cowboy have a weiner dog? somebody told him to get a long little doggy.|0|04:11:42
+3060|would you like to try again?|0|04:11:42
+3060|no|1|04:11:49
+3060|thanks!|0|04:11:50

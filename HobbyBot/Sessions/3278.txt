@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3278|please answer the following question.|0|08:53:57
+3278|how often do you listen to music?|0|08:53:57
+3278|everyday|1|08:54:08
+3278|what is your favorite genre?|0|08:54:08
+3278|i like being eclectic|1|08:54:18
+3278|what other hobbies do you have?|0|08:54:19
+3278|taekwondo, how about you?|1|08:54:31
+3278|thanks!|0|08:54:31

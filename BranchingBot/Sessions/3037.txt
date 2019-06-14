@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3037|what would you like to know?|0|02:24:44
+3037|weather|1|02:24:48
+3037|please enter the location.|0|02:24:48
+3037|los angeles, california|1|02:25:03
+3037|the weather in los angeles is 77.31 degrees fahrenheit or 25.17 degrees celsius with clear sky.|0|02:25:03
+3037|would you like to try again?|0|02:25:03
+3037|no|1|02:25:08
+3037|thanks!|0|02:25:08

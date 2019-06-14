@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3138|what would you like to know?|0|12:07:21
+3138|weather|1|12:07:27
+3138|please enter the location.|0|12:07:27
+3138|toronto ontario|1|12:07:41
+3138|the weather in toronto is 56.17 degrees fahrenheit or 13.43 degrees celsius with clear sky.|0|12:07:41
+3138|would you like to try again?|0|12:07:41
+3138|no|1|12:07:50
+3138|thanks!|0|12:07:50

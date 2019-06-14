@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3743|please answer the following question.|0|15:43:22
+3743|how often do you listen to music?|0|15:43:22
+3743|usually a few times a week, but only in the car while driving.|1|15:43:54
+3743|what is your favorite genre?|0|15:43:54
+3743|i really enjoy old country music!|1|15:44:10
+3743|what other hobbies do you have?|0|15:44:10
+3743|i love to bake. i also love to read.|1|15:44:27
+3743|thanks!|0|15:44:27

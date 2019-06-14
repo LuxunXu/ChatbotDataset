@@ -1,0 +1,12 @@
+userID|message|sendReceive|sentTime
+3035|what would you like to know?|0|02:12:21
+3035|joke|1|02:12:24
+3035|what do you call a fake noodle? an impasta.|0|02:12:24
+3035|would you like to try again?|0|02:12:24
+3035|yes|1|02:12:27
+3035|what would you like to know?|0|02:12:27
+3035|fact|1|02:12:29
+3035|an ostrich`s eye is bigger than its brain.  |0|02:12:30
+3035|would you like to try again?|0|02:12:30
+3035|no|1|02:12:32
+3035|thanks!|0|02:12:32

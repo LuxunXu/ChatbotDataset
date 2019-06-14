@@ -1,0 +1,25 @@
+userID|message|sendReceive|sentTime
+3092|what would you like to know?|0|06:13:54
+3092|fact|1|06:14:03
+3092|what is the best time to go fishing?|1|06:15:56
+3092|sorry, i didn't get that.|0|06:15:57
+3092|what would you like to know?|0|06:15:57
+3092|what is the weather|1|06:16:08
+3092|please enter the location.|0|06:16:08
+3092|columbia|1|06:16:14
+3092|the weather in columbia is 73.76 degrees fahrenheit or 23.20 degrees celsius with clear sky.|0|06:16:15
+3092|would you like to try again?|0|06:16:15
+3092|yes|1|06:16:24
+3092|what would you like to know?|0|06:16:24
+3092|joke|1|06:16:26
+3092|how many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?|0|06:16:27
+3092|would you like to try again?|0|06:16:27
+3092|yes|1|06:16:37
+3092|what would you like to know?|0|06:16:37
+3092|weather|1|06:16:39
+3092|please enter the location.|0|06:16:39
+3092|atlanta|1|06:16:50
+3092|the weather in atlanta is 74.89 degrees fahrenheit or 23.83 degrees celsius with light rain.|0|06:16:51
+3092|would you like to try again?|0|06:16:51
+3092|no|1|06:16:53
+3092|thanks!|0|06:16:53

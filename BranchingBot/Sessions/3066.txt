@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3066|what would you like to know?|0|04:27:45
+3066|weather|1|04:27:54
+3066|please enter the location.|0|04:27:55
+3066|how is the weather at bangalore today?|1|04:28:39
+3066|the weather in bangalore is 75.20 degrees fahrenheit or 24.00 degrees celsius with scattered clouds.|0|04:28:40
+3066|would you like to try again?|0|04:28:40
+3066|no|1|04:28:46
+3066|thanks!|0|04:28:47

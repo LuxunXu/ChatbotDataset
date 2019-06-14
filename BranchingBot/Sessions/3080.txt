@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3080|what would you like to know?|0|05:25:48
+3080|weather|1|05:26:01
+3080|please enter the location.|0|05:26:01
+3080|taxas|1|05:26:10
+3080|the weather in taxas is 68.00 degrees fahrenheit or 20.00 degrees celsius with scattered clouds.|0|05:26:10
+3080|would you like to try again?|0|05:26:10
+3080|no|1|05:26:31
+3080|thanks!|0|05:26:32

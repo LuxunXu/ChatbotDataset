@@ -1,0 +1,19 @@
+userID|message|sendReceive|sentTime
+3140|what would you like to know?|0|12:41:21
+3140|weather|1|12:41:28
+3140|please enter the location.|0|12:41:28
+3140|bronx new york|1|12:41:38
+3140|cannot get weather.|0|12:41:39
+3140|would you like to try again?|0|12:41:39
+3140|yes|1|12:41:43
+3140|what would you like to know?|0|12:41:44
+3140|joke|1|12:42:05
+3140|what did the grape do when he got stepped on? he let out a little wine.|0|12:42:05
+3140|would you like to try again?|0|12:42:05
+3140|yes|1|12:42:18
+3140|what would you like to know?|0|12:42:18
+3140|joke|1|12:42:20
+3140|why did the half blind man fall in the well? because he couldn't see that well!|0|12:42:20
+3140|would you like to try again?|0|12:42:20
+3140|no|1|12:42:31
+3140|thanks!|0|12:42:31

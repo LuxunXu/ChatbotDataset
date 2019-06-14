@@ -1,0 +1,17 @@
+userID|message|sendReceive|sentTime
+3123|what would you like to know?|0|10:34:33
+3123|joke|1|10:34:36
+3123|did you hear about the cow who jumped over the barbed wire fence? it was udder destruction.|0|10:34:37
+3123|would you like to try again?|0|10:34:37
+3123|yes|1|10:34:43
+3123|what would you like to know?|0|10:34:43
+3123|fact|1|10:34:45
+3123|every time you lick a stamp, you consume 1/10 of a calorie.|0|10:34:48
+3123|would you like to try again?|0|10:34:48
+3123|yes|1|10:34:53
+3123|what would you like to know?|0|10:34:53
+3123|fact|1|10:34:55
+3123|was harrison ford`s idea so that he could take a bathroom break.|0|10:34:56
+3123|would you like to try again?|0|10:34:56
+3123|no|1|10:35:07
+3123|thanks!|0|10:35:07

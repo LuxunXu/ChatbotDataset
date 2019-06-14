@@ -1,0 +1,27 @@
+userID|message|sendReceive|sentTime
+3032|what would you like to know?|0|02:02:25
+3032|weather|1|02:02:35
+3032|please enter the location.|0|02:02:35
+3032|orlando, florida|1|02:02:51
+3032|the weather in orlando is 78.39 degrees fahrenheit or 25.77 degrees celsius with clear sky.|0|02:02:52
+3032|would you like to try again?|0|02:02:52
+3032|yes|1|02:02:56
+3032|what would you like to know?|0|02:02:56
+3032|joke|1|02:02:58
+3032|what do you get when you cross a snowman with a vampire? frostbite.|0|02:02:59
+3032|would you like to try again?|0|02:02:59
+3032|:)|1|02:03:15
+3032|sorry, i didn't get that.|0|02:03:15
+3032|would you like to try again?|0|02:03:15
+3032|yes|1|02:03:20
+3032|what would you like to know?|0|02:03:20
+3032|fact|1|02:03:22
+3032|the shortest war in history was between zanzibar and england in 1896. zanzibar surrendered after 38 minutes.|0|02:03:23
+3032|would you like to try again?|0|02:03:23
+3032|yes|1|02:03:34
+3032|what would you like to know?|0|02:03:34
+3032|fact|1|02:03:36
+3032|los angeles` full name `el pueblo de nuestra senora la reina de los angeles de porciuncula` is reduced to 3.63% of its size in the abbreviation `l.a.`.|0|02:03:37
+3032|would you like to try again?|0|02:03:37
+3032|no|1|02:03:44
+3032|thanks!|0|02:03:44

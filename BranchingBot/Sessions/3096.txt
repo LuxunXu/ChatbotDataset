@@ -1,0 +1,13 @@
+userID|message|sendReceive|sentTime
+3096|what would you like to know?|0|06:48:10
+3096|joke|1|06:48:12
+3096|did you hear about the new restaurant on the moon? the food is great, but there’s just no atmosphere.|0|06:48:12
+3096|would you like to try again?|0|06:48:12
+3096|yes|1|06:48:22
+3096|what would you like to know?|0|06:48:23
+3096|fact|1|06:48:26
+3096|the joke was funny|1|06:48:45
+3096|did you hear the joke about the wandering nun? she was a roman catholic.|0|06:48:45
+3096|would you like to try again?|0|06:48:45
+3096|no|1|06:48:58
+3096|thanks!|0|06:48:58

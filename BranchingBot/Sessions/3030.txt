@@ -1,0 +1,19 @@
+userID|message|sendReceive|sentTime
+3030|what would you like to know?|0|03:57:38
+3030|fact|1|03:57:45
+3030|i would like to know a fact please.|1|03:58:17
+3030|what would you like to know?|0|03:58:25
+3030|fact|1|03:58:30
+3030|what would you like to know?|0|03:58:41
+3030|joke|1|03:58:45
+3030|the first time i got a universal remote control i thought to myself, 'this changes everything'|0|03:58:45
+3030|would you like to try again?|0|03:58:45
+3030|yes|1|03:58:51
+3030|what would you like to know?|0|03:58:51
+3030|fact|1|03:58:54
+3030|what would you like to know?|0|03:59:05
+3030|joke|1|03:59:07
+3030|what did the dog say to the two trees? bark bark.|0|03:59:08
+3030|would you like to try again?|0|03:59:08
+3030|no|1|03:59:14
+3030|thanks!|0|03:59:14

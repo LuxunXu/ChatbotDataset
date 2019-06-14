@@ -1,0 +1,37 @@
+userID|message|sendReceive|sentTime
+3045|what would you like to know?|0|03:08:42
+3045|weather|1|03:08:50
+3045|please enter the location.|0|03:08:50
+3045|dehradun|1|03:08:59
+3045|the weather in dehra dun is 70.92 degrees fahrenheit or 21.62 degrees celsius with few clouds.|0|03:09:00
+3045|would you like to try again?|0|03:09:00
+3045|yes|1|03:09:07
+3045|what would you like to know?|0|03:09:07
+3045|joke|1|03:09:12
+3045|want to hear a joke about construction? nah, i'm still working on it.|0|03:09:12
+3045|would you like to try again?|0|03:09:12
+3045|yes|1|03:09:20
+3045|what would you like to know?|0|03:09:20
+3045|joke|1|03:09:22
+3045|i bought shoes from a drug dealer once. i don't know what he laced them with, but i was tripping all day.|0|03:09:23
+3045|would you like to try again?|0|03:09:23
+3045|yes|1|03:09:37
+3045|what would you like to know?|0|03:09:37
+3045|fact|1|03:09:41
+3045|you were born with 300 bones, but by the time you are an adult you will only have 206.|0|03:09:42
+3045|would you like to try again?|0|03:09:42
+3045|yes|1|03:09:53
+3045|what would you like to know?|0|03:09:53
+3045|did we land on moon ?|1|03:10:30
+3045|sorry, i didn't get that.|0|03:10:30
+3045|what would you like to know?|0|03:10:30
+3045|fact|1|03:10:35
+3045|the male gypsy moth can 'smell' the virgin female gypsy moth from 1.8 miles away.  |0|03:10:36
+3045|would you like to try again?|0|03:10:36
+3045|yes|1|03:10:56
+3045|what would you like to know?|0|03:10:56
+3045|joke|1|03:10:58
+3045|mahatma gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. he also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. this made him a super calloused fragile mystic hexed by halitosis.|0|03:10:59
+3045|would you like to try again?|0|03:10:59
+3045|no|1|03:11:28
+3045|thanks!|0|03:11:29

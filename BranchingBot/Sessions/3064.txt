@@ -1,0 +1,73 @@
+userID|message|sendReceive|sentTime
+3064|what would you like to know?|0|04:24:23
+3064|joke|1|04:24:28
+3064|leather is great for sneaking around because it's made of hide.|0|04:24:29
+3064|would you like to try again?|0|04:24:29
+3064|yes|1|04:24:39
+3064|what would you like to know?|0|04:24:39
+3064|fact|1|04:24:42
+3064|fact|1|04:25:00
+3064|yes|1|04:25:07
+3064|sorry, i didn't get that.|0|04:25:07
+3064|what would you like to know?|0|04:25:07
+3064|weather|1|04:25:10
+3064|please enter the location.|0|04:25:10
+3064|oklahoma city|1|04:25:15
+3064|the weather in oklahoma city is 71.15 degrees fahrenheit or 21.75 degrees celsius with light rain.|0|04:25:16
+3064|would you like to try again?|0|04:25:16
+3064|yes|1|04:25:22
+3064|what would you like to know?|0|04:25:23
+3064|fact|1|04:25:25
+3064|weather|1|04:25:48
+3064|please enter the location.|0|04:25:48
+3064|japan|1|04:25:54
+3064|the weather in japan is 88.93 degrees fahrenheit or 31.63 degrees celsius with light intensity shower rain.|0|04:25:55
+3064|would you like to try again?|0|04:25:55
+3064|yes|1|04:26:00
+3064|what would you like to know?|0|04:26:01
+3064|fact|1|04:26:08
+3064|joke|1|04:26:12
+3064|conjunctivitis.com – now that’s a site for sore eyes.|0|04:26:12
+3064|would you like to try again?|0|04:26:12
+3064|yes|1|04:26:20
+3064|what would you like to know?|0|04:26:20
+3064|joke|1|04:26:23
+3064|archaeology really is a career in ruins.|0|04:26:23
+3064|would you like to try again?|0|04:26:23
+3064|yes|1|04:26:29
+3064|what would you like to know?|0|04:26:29
+3064|joke|1|04:26:33
+3064|how do hens stay fit? they always egg-ercise!|0|04:26:34
+3064|would you like to try again?|0|04:26:34
+3064|yes|1|04:26:39
+3064|what would you like to know?|0|04:26:39
+3064|joke|1|04:26:41
+3064|“doctor, i’ve broken my arm in several places” doctor “well don’t go to those places.”|0|04:26:42
+3064|would you like to try again?|0|04:26:42
+3064|yes|1|04:26:45
+3064|what would you like to know?|0|04:26:46
+3064|fact|1|04:26:49
+3064|elephants|1|04:26:53
+3064|sorry, i didn't get that.|0|04:26:53
+3064|what would you like to know?|0|04:26:53
+3064|fact|1|04:26:58
+3064|how many letters in the alphabet|1|04:27:10
+3064|sorry, i didn't get that.|0|04:27:13
+3064|what would you like to know?|0|04:27:13
+3064|weather|1|04:27:19
+3064|please enter the location.|0|04:27:19
+3064|florida|1|04:27:23
+3064|the weather in florida is 74.88 degrees fahrenheit or 23.82 degrees celsius with clear sky.|0|04:27:24
+3064|would you like to try again?|0|04:27:24
+3064|what would you like to know?|0|04:27:55
+3064|fact|1|04:27:56
+3064|time is it?|1|04:28:09
+3064|sorry, i didn't get that.|0|04:28:09
+3064|what would you like to know?|0|04:28:09
+3064|weather|1|04:28:15
+3064|please enter the location.|0|04:28:15
+3064|belize|1|04:28:18
+3064|the weather in belize is 80.73 degrees fahrenheit or 27.07 degrees celsius with few clouds.|0|04:28:18
+3064|would you like to try again?|0|04:28:18
+3064|no|1|04:28:25
+3064|thanks!|0|04:28:25

@@ -1,0 +1,12 @@
+userID|message|sendReceive|sentTime
+3015|what would you like to know?|0|01:16:35
+3015|weather|1|01:16:43
+3015|please enter the location.|0|01:16:43
+3015|61920|1|01:16:48
+3015|sorry, i didn't get that.|0|01:16:48
+3015|please enter the location.|0|01:16:48
+3015|charleston,il|1|01:16:54
+3015|the weather in charleston is 68.50 degrees fahrenheit or 20.28 degrees celsius with light rain.|0|01:16:55
+3015|would you like to try again?|0|01:16:55
+3015|no|1|01:16:59
+3015|thanks!|0|01:17:00

@@ -1,0 +1,21 @@
+userID|message|sendReceive|sentTime
+3121|what would you like to know?|0|10:01:16
+3121|weather|1|10:01:20
+3121|please enter the location.|0|10:01:20
+3121|jersey city, nj|1|10:01:34
+3121|the weather in jersey city is 68.43 degrees fahrenheit or 20.24 degrees celsius with heavy intensity rain.|0|10:01:35
+3121|would you like to try again?|0|10:01:35
+3121|yes|1|10:01:44
+3121|what would you like to know?|0|10:01:44
+3121|joke|1|10:01:46
+3121|i ate a clock yesterday. it was so time consuming.|0|10:01:47
+3121|would you like to try again?|0|10:01:47
+3121|yes|1|10:01:51
+3121|what would you like to know?|0|10:01:51
+3121|fact|1|10:01:52
+3121|the u.s. military operates 234 golf courses|0|10:01:58
+3121|would you like to try again?|0|10:01:58
+3121|sorry, i didn't get that.|0|10:02:34
+3121|would you like to try again?|0|10:02:34
+3121|no|1|10:02:53
+3121|thanks!|0|10:02:53

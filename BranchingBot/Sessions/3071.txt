@@ -1,0 +1,12 @@
+userID|message|sendReceive|sentTime
+3071|what would you like to know?|0|04:33:39
+3071|fact|1|04:33:56
+3071|fact|1|04:34:10
+3071|what would you like to know?|0|04:34:27
+3071|weather|1|04:34:32
+3071|please enter the location.|0|04:34:33
+3071|nigeria|1|04:35:02
+3071|the weather in federal republic of nigeria is 67.40 degrees fahrenheit or 19.67 degrees celsius with scattered clouds.|0|04:35:03
+3071|would you like to try again?|0|04:35:03
+3071|no|1|04:35:11
+3071|thanks!|0|04:35:11

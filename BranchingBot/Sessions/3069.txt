@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3069|what would you like to know?|0|04:32:16
+3069|weather|1|04:32:30
+3069|please enter the location.|0|04:32:30
+3069|kolkata|1|04:32:49
+3069|the weather in kolkata is 87.80 degrees fahrenheit or 31.00 degrees celsius with haze.|0|04:32:49
+3069|would you like to try again?|0|04:32:50
+3069|no|1|04:32:55
+3069|thanks!|0|04:32:55

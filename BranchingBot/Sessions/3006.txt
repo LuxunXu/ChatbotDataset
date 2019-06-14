@@ -1,0 +1,19 @@
+userID|message|sendReceive|sentTime
+3006|what would you like to know?|0|01:04:32
+3006|weather|1|01:04:41
+3006|please enter the location.|0|01:04:41
+3006|india|1|01:04:51
+3006|the weather in republic of india is 68.70 degrees fahrenheit or 20.39 degrees celsius with broken clouds.|0|01:04:52
+3006|would you like to try again?|0|01:04:52
+3006|yes|1|01:05:05
+3006|what would you like to know?|0|01:05:06
+3006|joke|1|01:05:11
+3006|why is the ocean always blue? because the shore never waves back.|0|01:05:11
+3006|would you like to try again?|0|01:05:11
+3006|yes|1|01:05:24
+3006|what would you like to know?|0|01:05:24
+3006|fact|1|01:05:27
+3006|it has been estimated that humans use only 10% of their brain.|0|01:05:31
+3006|would you like to try again?|0|01:05:31
+3006|no|1|01:05:36
+3006|thanks!|0|01:05:37

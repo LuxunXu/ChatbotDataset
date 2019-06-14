@@ -1,0 +1,14 @@
+userID|message|sendReceive|sentTime
+3081|what would you like to know?|0|05:26:37
+3081|weather|1|05:26:40
+3081|please enter the location.|0|05:26:40
+3081|usa|1|05:26:48
+3081|the weather in united states is 61.19 degrees fahrenheit or 16.22 degrees celsius with light rain.|0|05:26:48
+3081|would you like to try again?|0|05:26:48
+3081|yes|1|05:27:00
+3081|what would you like to know?|0|05:27:00
+3081|joke|1|05:27:07
+3081|people who don't eat gluten are really going against the grain.|0|05:27:07
+3081|would you like to try again?|0|05:27:07
+3081|no|1|05:27:12
+3081|thanks!|0|05:27:12

@@ -1,0 +1,33 @@
+userID|message|sendReceive|sentTime
+3097|what would you like to know?|0|06:49:32
+3097|weather|1|06:49:36
+3097|please enter the location.|0|06:49:36
+3097|bochum|1|06:49:41
+3097|the weather in bochum is 52.23 degrees fahrenheit or 11.24 degrees celsius with clear sky.|0|06:49:43
+3097|would you like to try again?|0|06:49:43
+3097|yes|1|06:49:52
+3097|what would you like to know?|0|06:49:52
+3097|joke|1|06:49:54
+3097|what do you do on a remote island? try and find the tv island it belongs to.|0|06:49:54
+3097|would you like to try again?|0|06:49:54
+3097|yes|1|06:50:08
+3097|what would you like to know?|0|06:50:08
+3097|fact|1|06:50:09
+3097|tell me funny facts|1|06:50:21
+3097|do you listen to me|1|06:50:40
+3097|sorry, i didn't get that.|0|06:50:40
+3097|what would you like to know?|0|06:50:40
+3097|tell me a joke|1|06:50:47
+3097|i heard there was a new store called moderation. they have everything there|0|06:50:47
+3097|would you like to try again?|0|06:50:47
+3097|do you find yourself funny|1|06:51:06
+3097|sorry, i didn't get that.|0|06:51:06
+3097|would you like to try again?|0|06:51:06
+3097|it was clear|1|06:51:15
+3097|sorry, i didn't get that.|0|06:51:15
+3097|would you like to try again?|0|06:51:15
+3097|what should i ask then?|1|06:51:30
+3097|sorry, i didn't get that.|0|06:51:30
+3097|would you like to try again?|0|06:51:30
+3097|no|1|06:51:35
+3097|thanks!|0|06:51:35

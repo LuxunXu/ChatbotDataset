@@ -1,0 +1,7 @@
+userID|message|sendReceive|sentTime
+3043|what would you like to know?|0|02:51:33
+3043|joke|1|02:51:37
+3043|i needed a password eight characters long so i picked snow white and the seven dwarfs.|0|02:51:38
+3043|would you like to try again?|0|02:51:38
+3043|no|1|02:51:47
+3043|thanks!|0|02:51:47

@@ -1,0 +1,44 @@
+userID|message|sendReceive|sentTime
+3016|what would you like to know?|0|01:17:25
+3016|joke|1|01:17:30
+3016|if two vegans are having an argument, is it still considered beef?|0|01:17:30
+3016|would you like to try again?|0|01:17:30
+3016|yes|1|01:17:36
+3016|what would you like to know?|0|01:17:36
+3016|fact|1|01:17:39
+3016|the average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.|0|01:17:40
+3016|would you like to try again?|0|01:17:40
+3016|yes|1|01:17:45
+3016|what would you like to know?|0|01:17:45
+3016|weather joke|1|01:17:51
+3016|please enter the location.|0|01:17:51
+3016|manassas virginia|1|01:17:59
+3016|the weather in manassas is 75.27 degrees fahrenheit or 24.04 degrees celsius with heavy intensity rain.|0|01:17:59
+3016|would you like to try again?|0|01:17:59
+3016|yes|1|01:18:02
+3016|what would you like to know?|0|01:18:02
+3016|joke|1|01:18:05
+3016|parallel lines have so much in common. it’s a shame they’ll never meet.|0|01:18:06
+3016|would you like to try again?|0|01:18:06
+3016|yes|1|01:18:11
+3016|what would you like to know?|0|01:18:11
+3016|weather|1|01:18:16
+3016|please enter the location.|0|01:18:17
+3016|where you are|1|01:18:20
+3016|sorry, i didn't get that.|0|01:18:20
+3016|please enter the location.|0|01:18:20
+3016|vancouver island|1|01:18:24
+3016|cannot get weather.|0|01:18:25
+3016|would you like to try again?|0|01:18:25
+3016|yes|1|01:18:28
+3016|what would you like to know?|0|01:18:28
+3016|joke|1|01:18:31
+3016|egyptians claimed to invent the guitar, but they were such lyres.﻿|0|01:18:32
+3016|would you like to try again?|0|01:18:32
+3016|yes|1|01:18:36
+3016|what would you like to know?|0|01:18:37
+3016|joke|1|01:18:39
+3016|can i watch the tv? dad: yes, but don’t turn it on.|0|01:18:39
+3016|would you like to try again?|0|01:18:39
+3016|no|1|01:18:44
+3016|thanks!|0|01:18:44

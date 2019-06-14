@@ -1,0 +1,9 @@
+userID|message|sendReceive|sentTime
+3654|please answer the following question.|0|17:13:58
+3654|how often do you listen to music?|0|17:13:58
+3654|daily|1|17:14:04
+3654|what is your favorite genre?|0|17:14:04
+3654|country|1|17:14:09
+3654|what other hobbies do you have?|0|17:14:09
+3654|my kids and my family|1|17:14:17
+3654|thanks!|0|17:14:18

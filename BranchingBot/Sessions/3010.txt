@@ -1,0 +1,19 @@
+userID|message|sendReceive|sentTime
+3010|what would you like to know?|0|01:05:46
+3010|joke|1|01:05:49
+3010|when dad drops a pea off of his plate ‘oh dear i’ve pee’d on the table!|0|01:05:49
+3010|would you like to try again?|0|01:05:49
+3010|yes|1|01:05:53
+3010|what would you like to know?|0|01:05:53
+3010|fact|1|01:05:56
+3010|all us presidents have worn glasses; some just didn`t like being seen wearing them in public.|0|01:05:57
+3010|would you like to try again?|0|01:05:57
+3010|yes|1|01:06:01
+3010|what would you like to know?|0|01:06:01
+3010|weather|1|01:06:04
+3010|please enter the location.|0|01:06:04
+3010|new york|1|01:06:18
+3010|the weather in new york is 71.26 degrees fahrenheit or 21.81 degrees celsius with light rain.|0|01:06:19
+3010|would you like to try again?|0|01:06:19
+3010|no|1|01:06:23
+3010|thanks!|0|01:06:23

@@ -1,0 +1,29 @@
+userID|message|sendReceive|sentTime
+3142|what would you like to know?|0|13:02:36
+3142|weather|1|13:02:46
+3142|please enter the location.|0|13:02:46
+3142|chantily, virginia|1|13:03:00
+3142|cannot get weather.|0|13:03:00
+3142|would you like to try again?|0|13:03:00
+3142|yes|1|13:03:04
+3142|what would you like to know?|0|13:03:04
+3142|joke|1|13:03:07
+3142|i ate a clock yesterday. it was so time consuming.|0|13:03:07
+3142|would you like to try again?|0|13:03:07
+3142|yes|1|13:03:16
+3142|what would you like to know?|0|13:03:17
+3142|fact|1|13:03:19
+3142|the word 'checkmate' in chess comes from the persian phrase 'shah mat,' which means 'the king is dead.'|0|13:03:22
+3142|would you like to try again?|0|13:03:22
+3142|yes|1|13:03:40
+3142|what would you like to know?|0|13:03:40
+3142|weather|1|13:03:42
+3142|please enter the location.|0|13:03:42
+3142|20120|1|13:03:46
+3142|sorry, i didn't get that.|0|13:03:46
+3142|please enter the location.|0|13:03:46
+3142|viginia|1|13:03:50
+3142|cannot get weather.|0|13:03:51
+3142|would you like to try again?|0|13:03:51
+3142|no|1|13:03:53
+3142|thanks!|0|13:03:53

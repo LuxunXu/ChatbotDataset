@@ -1,0 +1,12 @@
+userID|message|sendReceive|sentTime
+3065|what would you like to know?|0|04:24:56
+3065|joke|1|04:25:02
+3065|i used to be addicted to the hokey pokey, but i turned myself around.|0|04:25:03
+3065|would you like to try again?|0|04:25:03
+3065|yes|1|04:25:22
+3065|what would you like to know?|0|04:25:22
+3065|joke|1|04:25:31
+3065|i cut my finger cutting cheese. i know it may be a cheesy story but i feel grate now.|0|04:25:32
+3065|would you like to try again?|0|04:25:32
+3065|no|1|04:25:50
+3065|thanks!|0|04:25:50
