@@ -1,0 +1,19 @@
+Log 3299
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Washington dc
+Bot: The weather in washington, d. c. is 63.97 degrees fahrenheit or 17.76 degrees celsius with heavy intensity rain.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The electric chair was invented by a dentist.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Why did the house go to the doctor? it was having window panes.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

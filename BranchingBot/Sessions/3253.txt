@@ -1,0 +1,12 @@
+Log 3253
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 30062
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Marietta, ga
+Bot: The weather in marietta is 78.75 degrees fahrenheit or 25.97 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

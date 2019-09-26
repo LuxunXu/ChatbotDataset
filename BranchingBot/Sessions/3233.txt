@@ -1,0 +1,44 @@
+Log 3233
+Bot: What would you like to know?
+Human: Joke
+Bot: A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Dominican republic
+Bot: The weather in dominican republic is 86.00 degrees fahrenheit or 30.00 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: A boeing 747`s wingspan is longer than the wright brother`s first flight.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What do you call a cow with no legs? ground beef.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: 60% of electrocutions occur while talking on the telephone during a thunderstorm.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Sofia
+Bot: The weather in sofia is 64.40 degrees fahrenheit or 18.00 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Kulyab
+Bot: Sorry, i didn't get that.
+Bot: What would you like to know?
+Human: Joke
+Bot: What is the leading cause of dry skin? towels
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

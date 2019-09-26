@@ -1,0 +1,25 @@
+Log 3309
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: New brunswick canada
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Bangor maine
+Bot: The weather in bangor is 63.82 degrees fahrenheit or 17.68 degrees celsius with broken clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: I knew i shouldn’t have ate that seafood. because now i’m feeling a little… eel
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Donald duck comics were banned from finland because he doesn`t wear pants!
+Bot: Would you like to try again?
+Human: Interesting, thanks

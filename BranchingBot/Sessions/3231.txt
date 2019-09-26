@@ -1,0 +1,31 @@
+Log 3231
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Las vegas, nv
+Bot: The weather in las vegas is 105.91 degrees fahrenheit or 41.06 degrees celsius with few clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Wife: honey i’m pregnant.me: well…. what do we do now?wife: well, i guess we should go to a baby doctor.me: hm.. i think i’d be a lot more comfortable going to an adult doctor.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Conception occurs most in the month of december.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Taipei, taiwan
+Bot: The weather in taipei is 77.14 degrees fahrenheit or 25.08 degrees celsius with thunderstorm.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: I applied to be a doorman but didn't get the job due to lack of experience. that surprised me, i thought it was an entry level position.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

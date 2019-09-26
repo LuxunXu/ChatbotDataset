@@ -1,0 +1,22 @@
+Log 3218
+Bot: What would you like to know?
+Human: Fact
+Bot: Cbs` '60 minutes' is the only tv show without a theme song/music.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 32669
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Gainesville, fl
+Bot: The weather in gainesville is 80.44 degrees fahrenheit or 26.91 degrees celsius with thunderstorm.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: When you have a bladder infection, urine trouble.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

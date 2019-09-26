@@ -1,0 +1,7 @@
+Log 3234
+Bot: What would you like to know?
+Human: Fact
+Bot: The average person spends 6 months of their life sitting at red lights.
+Bot: Would you like to try again?
+Human: Dang, i didn't know that.
+Bot: Thanks!

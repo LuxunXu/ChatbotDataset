@@ -1,0 +1,17 @@
+Log 3203
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 48060
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Port huron, michigan
+Bot: The weather in port huron is 66.27 degrees fahrenheit or 19.04 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

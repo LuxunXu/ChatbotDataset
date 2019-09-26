@@ -1,0 +1,37 @@
+Log 3174
+Bot: What would you like to know?
+Human: Joke
+Bot: Two fish are in a tank, one turns to the other and says, 'how do you drive this thing?'
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: London
+Bot: The weather in london is 65.37 degrees fahrenheit or 18.54 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: It is illegal to hunt camels in the state of arizona.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What time did the man go to the dentist? tooth hurt-y.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The most common street name in the u.s. is second street.
+Bot: Would you like to try again?
+Human: Is that true
+Bot: Sorry, i didn't get that.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Wwii fighter pilots in the south pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. if the pilots fired all their ammo at a target, he went through 'the whole 9 yards', hence the term.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

@@ -1,0 +1,15 @@
+Log 3221
+Bot: What would you like to know?
+Human: Everything
+Bot: Sorry, i didn't get that.
+Bot: What would you like to know?
+Human: How to have sex
+Bot: Sorry, i didn't get that.
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Lubbock
+Bot: The weather in lubbock is 77.38 degrees fahrenheit or 25.21 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

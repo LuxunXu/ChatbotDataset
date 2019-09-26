@@ -1,0 +1,7 @@
+Log 3192
+Bot: What would you like to know?
+Human: Joke
+Bot: I went to the doctor today and he told me i had type a blood but it was a type o.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

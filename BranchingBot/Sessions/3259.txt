@@ -1,0 +1,12 @@
+Log 3259
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 21804
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Salisbury md
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

@@ -1,0 +1,19 @@
+Log 3293
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: India
+Bot: The weather in republic of india is 73.94 degrees fahrenheit or 23.30 degrees celsius with few clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What does a pirate pay for his corn? a buccaneer!
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

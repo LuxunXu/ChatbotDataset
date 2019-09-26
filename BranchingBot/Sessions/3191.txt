@@ -1,0 +1,19 @@
+Log 3191
+Bot: What would you like to know?
+Human: Joke
+Bot: Where does napoleon keep his armies? in his sleevies.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The average lifespan of an eyelash is five months.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Lexington, ky 40513
+Bot: The weather in lexington is 77.02 degrees fahrenheit or 25.01 degrees celsius with moderate rain.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

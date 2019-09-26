@@ -1,0 +1,12 @@
+Log 3213
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 24531
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Chatham,va
+Bot: The weather in chatham is 84.43 degrees fahrenheit or 29.13 degrees celsius with haze.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

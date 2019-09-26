@@ -1,0 +1,7 @@
+Log 3315
+Bot: What would you like to know?
+Human: Joke
+Bot: What does a clock do when it's hungry? it goes back four seconds!
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

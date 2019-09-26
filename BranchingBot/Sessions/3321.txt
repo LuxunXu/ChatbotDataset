@@ -1,0 +1,22 @@
+Log 3321
+Bot: What would you like to know?
+Human: Joke
+Bot: Did you hear the one about the guy with the broken hearing aid? neither did he.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The only real person to ever to appear on a pez dispenser was betsy ross.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 55106
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Minneapolis
+Bot: The weather in minneapolis is 70.86 degrees fahrenheit or 21.59 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

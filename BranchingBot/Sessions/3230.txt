@@ -1,0 +1,30 @@
+Log 3230
+Bot: What would you like to know?
+Human: The weather in fort lauderdale fl
+Bot: Please enter the location.
+Human: Fort lauderdale fl
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Miami
+Bot: The weather in miami is 84.06 degrees fahrenheit or 28.92 degrees celsius with thunderstorm.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Fort lauderdale
+Bot: The weather in fort lauderdale is 84.34 degrees fahrenheit or 29.08 degrees celsius with thunderstorm.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: New york
+Bot: The weather in new york is 65.44 degrees fahrenheit or 18.58 degrees celsius with light rain.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

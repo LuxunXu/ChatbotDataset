@@ -1,0 +1,22 @@
+Log 3229
+Bot: What would you like to know?
+Human: What's the stock market like?
+Bot: Sorry, i didn't get that.
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Cookeville, tennessee
+Bot: The weather in cookeville is 83.79 degrees fahrenheit or 28.77 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: A skeleton walked into a bar he said i need a beer and a mop
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Recycling one glass jar, saves enough energy to watch t.v for 3 hours!
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

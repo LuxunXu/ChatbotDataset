@@ -1,0 +1,14 @@
+Log 3146
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Chennai
+Bot: The weather in chennai is 89.60 degrees fahrenheit or 32.00 degrees celsius with few clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Why is no one friends with dracula? because he's a pain in the neck.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

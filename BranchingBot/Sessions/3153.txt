@@ -1,0 +1,24 @@
+Log 3153
+Bot: What would you like to know?
+Human: Joke
+Bot: I heard there was a new store called moderation. they have everything there
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Barcis
+Bot: The weather in barcis is 73.20 degrees fahrenheit or 22.89 degrees celsius with few clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The average person spends about two years on the phone in a lifetime.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Deborah winger did the voice of e.t.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

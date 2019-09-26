@@ -1,0 +1,9 @@
+Log 3314
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Chennai
+Bot: The weather in chennai is 86.00 degrees fahrenheit or 30.00 degrees celsius with few clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

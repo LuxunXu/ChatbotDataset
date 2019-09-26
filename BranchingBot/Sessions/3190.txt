@@ -1,0 +1,7 @@
+Log 3190
+Bot: What would you like to know?
+Human: Joke
+Bot: What did the dog say to the two trees? bark bark.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

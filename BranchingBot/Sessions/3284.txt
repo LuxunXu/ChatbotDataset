@@ -1,0 +1,19 @@
+Log 3284
+Bot: What would you like to know?
+Human: Joke
+Bot: My new years resolution is to stop leaving things so late.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Florida
+Bot: The weather in florida is 78.37 degrees fahrenheit or 25.76 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Fictional/horror writer stephen king sleeps with a nearby light on to calm his fear of the dark. 
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

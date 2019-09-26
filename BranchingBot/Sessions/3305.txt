@@ -1,0 +1,60 @@
+Log 3305
+Bot: What would you like to know?
+Human: Joke
+Bot: What did the dorito farmer say to the other dorito farmer? cool ranch!
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Denver
+Bot: The weather in denver is 76.53 degrees fahrenheit or 24.74 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Daylight saving time is not observed in most of the state of arizona and parts of indiana.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: I just got fired from a florist, apparently i took too many leaves.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Steamboat
+Bot: The weather in steamboat is 63.81 degrees fahrenheit or 17.67 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The first contraceptive was crocodile dung used by the ancient egyptians.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What cheese can never be yours? nacho cheese.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Done
+Bot: Sorry, i didn't get that.
+Bot: What would you like to know?
+Human: Survey
+Bot: Sorry, i didn't get that.
+Bot: What would you like to know?
+Human: All done
+Bot: Sorry, i didn't get that.
+Bot: What would you like to know?
+Human: Joke
+Bot: Just read a few facts about frogs. they were ribbiting.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Seattle’s fremont bridge rises up and down more than any drawbridge in the world.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

@@ -1,0 +1,12 @@
+Log 3199
+Bot: What would you like to know?
+Human: Joke
+Bot: Two peanuts were walking down the street. one was a salted.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Do you know where you can get chicken broth in bulk? the stock market.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

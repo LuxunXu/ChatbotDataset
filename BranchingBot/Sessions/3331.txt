@@ -1,0 +1,57 @@
+Log 3331
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Portland
+Bot: The weather in portland is 74.12 degrees fahrenheit or 23.40 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: If at first you don't succeed, sky diving is not for you!
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Walt disney holds the world record for the most academy awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Did you hear about the submarine industry? it really took a dive...
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Human: Fact
+Bot: There are more psychoanalysts per capita in buenos aires than any other place in the world.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Chicago
+Bot: The weather in chicago is 67.96 degrees fahrenheit or 19.98 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: 'i'll call you later.' don't call me later, call me dad.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What kind of magic do cows believe in? moodoo.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: How do you organize a space party? you planet.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Shakespeare is quoted 33,150 times in the oxford english dictionary.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

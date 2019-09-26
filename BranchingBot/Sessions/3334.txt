@@ -1,0 +1,14 @@
+Log 3334
+Bot: What would you like to know?
+Human: Joke
+Bot: Who did the wizard marry? his ghoul-friend
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Washington d.c.
+Bot: The weather in washington, d. c. is 63.59 degrees fahrenheit or 17.55 degrees celsius with moderate rain.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

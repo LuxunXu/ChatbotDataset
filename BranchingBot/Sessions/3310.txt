@@ -1,0 +1,12 @@
+Log 3310
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 26301
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Clarksburg, wv
+Bot: The weather in clarksburg is 65.71 degrees fahrenheit or 18.73 degrees celsius with moderate rain.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

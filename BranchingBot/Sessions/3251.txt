@@ -1,0 +1,19 @@
+Log 3251
+Bot: What would you like to know?
+Human: Joke
+Bot: Why do wizards clean their teeth three times a day? to prevent bat breath!
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Miami
+Bot: The weather in miami is 80.31 degrees fahrenheit or 26.84 degrees celsius with thunderstorm.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Did you hear about the kidnapping at school? it's ok, he woke up.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

@@ -1,0 +1,20 @@
+Log 3195
+Bot: What would you like to know?
+Human: Joke
+Bot: What do you call a crowd of chess players bragging about their wins in a hotel lobby? chess nuts boasting in an open foyer.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 15222
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Tell me a joke
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Pittsburgh
+Bot: The weather in pittsburg is 72.01 degrees fahrenheit or 22.23 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

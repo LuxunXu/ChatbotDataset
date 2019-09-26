@@ -1,0 +1,19 @@
+Log 3167
+Bot: What would you like to know?
+Human: Fact
+Bot: Because of the rotation of the earth, an object can be thrown farther if it is thrown west.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: 'dad, i'm hungry.' hello, hungry. i'm dad.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Hyderabad
+Bot: The weather in hyderabad is 76.96 degrees fahrenheit or 24.98 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

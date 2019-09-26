@@ -1,0 +1,9 @@
+Log 3154
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Nashville
+Bot: The weather in nashville is 78.04 degrees fahrenheit or 25.58 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

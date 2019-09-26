@@ -1,0 +1,34 @@
+Log 3306
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Island park
+Bot: The weather in island park is 68.54 degrees fahrenheit or 20.30 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: A boeing 747`s wingspan is longer than the wright brother`s first flight.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: I'm practicing for a bug-eating contest and i've got butterflies in my stomach.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: In medieval france, unfaithful wives were made to chase a chicken through town naked.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What lies at the bottom of the ocean and twitches? a nervous wreck.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Tigers not only have striped fur, they have striped skin!
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

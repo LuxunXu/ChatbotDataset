@@ -1,0 +1,22 @@
+Log 3276
+Bot: What would you like to know?
+Human: Joke
+Bot: I went to the zoo the other day, there was only one dog in it. it was a shitzu.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  during this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Harrogate
+Bot: The weather in harrogate is 60.82 degrees fahrenheit or 16.01 degrees celsius with shower rain.
+Bot: Would you like to try again?
+Human: Why so precise?
+Bot: Sorry, i didn't get that.
+Bot: Would you like to try again?
+Human: Nobody gives temperature to 2 decimal places
+Bot: Thanks!

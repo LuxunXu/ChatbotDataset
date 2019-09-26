@@ -1,0 +1,12 @@
+Log 3329
+Bot: What would you like to know?
+Human: Joke
+Bot: Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. the second looks over at the first with a surprised look, and answers, “whoa, a talking muffin!”
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Why did the coffee file a police report? it got mugged.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

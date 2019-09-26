@@ -1,0 +1,22 @@
+Log 3256
+Bot: What would you like to know?
+Human: Fact
+Bot: Every acre of american crops harvested contains 100 pounds of insects.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 01060
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Northampton, ma
+Bot: The weather in northampton is 55.18 degrees fahrenheit or 12.88 degrees celsius with broken clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What did the beaver say to the tree? it's been nice gnawing you.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

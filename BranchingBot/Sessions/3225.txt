@@ -1,0 +1,7 @@
+Log 3225
+Bot: What would you like to know?
+Human: Fact
+Bot: Average number of days a west german goes without washing his underwear: 7
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

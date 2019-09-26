@@ -1,0 +1,19 @@
+Log 3243
+Bot: What would you like to know?
+Human: Joke
+Bot: My new thesaurus is terrible. in fact, it's so bad, i'd say it's terrible.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The shortest war in history was between zanzibar and england in 1896. zanzibar surrendered after 38 minutes.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Orlando
+Bot: The weather in orlando is 77.90 degrees fahrenheit or 25.50 degrees celsius with light rain.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

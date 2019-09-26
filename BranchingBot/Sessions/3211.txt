@@ -1,0 +1,50 @@
+Log 3211
+Bot: What would you like to know?
+Human: Joke
+Bot: What do you do on a remote island? try and find the tv island it belongs to.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: In 1912 a law passed in nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Monza
+Bot: The weather in monza is 68.86 degrees fahrenheit or 20.48 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Ciao
+Bot: Sorry, i didn't get that.
+Bot: What would you like to know?
+Human: What are you?
+Bot: Sorry, i didn't get that.
+Bot: What would you like to know?
+Human: Joke
+Bot: I was wondering why the frisbee was getting bigger, then it hit me.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: So a duck walks into a pharmacy and says “give me some chap-stick… and put it on my bill”
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Mount olympus mons on mars is three times the size of mount everest.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What cheese can never be yours? nacho cheese.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The average person spends about two years on the phone in a lifetime.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

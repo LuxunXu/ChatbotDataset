@@ -1,0 +1,14 @@
+Log 3168
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Orlando florida
+Bot: The weather in orlando is 85.03 degrees fahrenheit or 29.46 degrees celsius with overcast clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: If you’re struggling to think of what to get someone for christmas. get them a fridge and watch their face light up when they open it.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

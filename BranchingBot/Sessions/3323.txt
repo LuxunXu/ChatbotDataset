@@ -1,0 +1,26 @@
+Log 3323
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 71603
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Arkansas
+Bot: The weather in arkansas is 74.37 degrees fahrenheit or 23.54 degrees celsius with overcast clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? because there’s a shortstop in between!
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Half the foods eaten throughout the world today were developed by farmers in the andes mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).
+Bot: Would you like to try again?
+Bot: What would you like to know?
+Human: Joke
+Bot: 'hey, dad, did you get a haircut?' 'no, i got them all cut.'
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

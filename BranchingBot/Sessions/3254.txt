@@ -1,0 +1,7 @@
+Log 3254
+Bot: What would you like to know?
+Human: Joke
+Bot: How do you get two whales in a car? start in england and drive west.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

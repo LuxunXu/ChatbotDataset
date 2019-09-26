@@ -1,0 +1,35 @@
+Log 3336
+Bot: What would you like to know?
+Human: Joke
+Bot: What did the pirate say on his 80th birthday? aye matey!
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: I broke my finger at work today, on the other hand i'm completely fine.
+Bot: Would you like to try again?
+Human: Hows the weather?
+Bot: Sorry, i didn't get that.
+Bot: Would you like to try again?
+Human: Tell me a joke
+Bot: Sorry, i didn't get that.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Tell me a joke.
+Bot: What is red and smells like blue paint?red paint!
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Honolulu
+Bot: The weather in honolulu is 85.05 degrees fahrenheit or 29.47 degrees celsius with broken clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

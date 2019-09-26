@@ -1,0 +1,14 @@
+Log 3180
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Phoenix
+Bot: The weather in phoenix is 92.55 degrees fahrenheit or 33.64 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What do you call a careful wolf? aware wolf.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

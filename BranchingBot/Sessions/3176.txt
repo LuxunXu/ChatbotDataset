@@ -1,0 +1,7 @@
+Log 3176
+Bot: What would you like to know?
+Human: Joke
+Bot: I knew a guy who collected candy canes, they were all in mint condition
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

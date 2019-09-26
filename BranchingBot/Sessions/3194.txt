@@ -1,0 +1,21 @@
+Log 3194
+Bot: What would you like to know?
+Human: Fact
+Bot: Iceland consumes more coca-cola per capita than any other nation.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 700 broadway
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Texas
+Bot: The weather in texas is 72.66 degrees fahrenheit or 22.59 degrees celsius with moderate rain.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

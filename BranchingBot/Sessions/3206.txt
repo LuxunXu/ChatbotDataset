@@ -1,0 +1,27 @@
+Log 3206
+Bot: What would you like to know?
+Human: Joke
+Bot: I got an a on my origami assignment when i turned my paper into my teacher
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: In the early 1940s, the fcc assigned television`s channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Why didn’t the skeleton cross the road? because he had no guts.
+Bot: Would you like to try again?
+Human: Haha!
+Bot: Sorry, i didn't get that.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Lufkin, tx
+Bot: The weather in lufkin is 89.60 degrees fahrenheit or 32.00 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

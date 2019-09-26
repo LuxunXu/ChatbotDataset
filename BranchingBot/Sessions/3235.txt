@@ -1,0 +1,9 @@
+Log 3235
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: India
+Bot: The weather in republic of india is 67.51 degrees fahrenheit or 19.73 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

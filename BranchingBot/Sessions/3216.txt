@@ -1,0 +1,45 @@
+Log 3216
+Bot: What would you like to know?
+Human: How many species of butterflies are there?
+Bot: Sorry, i didn't get that.
+Bot: What would you like to know?
+Human: Joke
+Bot: A bartender broke up with her boyfriend, but he kept asking her for another shot.
+Bot: Would you like to try again?
+Human: Lol
+Bot: Sorry, i didn't get that.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Beaufort, south carolina
+Bot: The weather in south carolina is 93.40 degrees fahrenheit or 34.11 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: William marston engineered one of the earliest forms of the polygraph in the early 1900`s. later he went on to create the comic strip wonder woman, a story about a displaced amazon princess who forces anyone caught in her magic lasso to tell the truth
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Miami's best resturaunt
+Bot: Sorry, i didn't get that.
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Miami, florida
+Bot: The weather in miami is 82.81 degrees fahrenheit or 28.23 degrees celsius with thunderstorm.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: If at first you don't succeed, sky diving is not for you!
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Nba superstar michael jordan was originally cut from his high school basketball team.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

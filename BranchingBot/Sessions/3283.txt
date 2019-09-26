@@ -1,0 +1,35 @@
+Log 3283
+Bot: What would you like to know?
+Human: Joke
+Bot: Why do trees seem suspicious on sunny days? dunno, they're just a bit shady.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Rome
+Bot: The weather in washington, d. c. is 60.89 degrees fahrenheit or 16.05 degrees celsius with heavy intensity rain.
+Bot: Would you like to try again?
+Human: What's the weather like in rome?
+Bot: Sorry, i didn't get that.
+Bot: Would you like to try again?
+Human: What's your name?
+Bot: Sorry, i didn't get that.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: James bond`s car had three different license plates in goldfinger
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Mosquito repellents don`t repel. they hide you. the spray blocks the mosquito`s sensors so they don`t know you`re there.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: If you went out into space, you would explode before you suffocated because there`s no air pressure.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

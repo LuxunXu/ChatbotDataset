@@ -1,0 +1,9 @@
+Log 3295
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Wisconsin
+Bot: The weather in wisconsin is 57.63 degrees fahrenheit or 14.24 degrees celsius with broken clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

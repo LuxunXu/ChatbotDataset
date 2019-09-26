@@ -1,0 +1,19 @@
+Log 3301
+Bot: What would you like to know?
+Human: Joke
+Bot: I am terrified of elevators. i’m going to start taking steps to avoid them.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The strongest muscle (relative to size) in the body is the tongue.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Bradenton
+Bot: The weather in bradenton is 86.07 degrees fahrenheit or 30.04 degrees celsius with thunderstorm.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

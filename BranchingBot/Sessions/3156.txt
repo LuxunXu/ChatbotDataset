@@ -1,0 +1,35 @@
+Log 3156
+Bot: What would you like to know?
+Human: Joke
+Bot: I was thinking about moving to moscow but there is no point russian into things.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: During a severe windstorm or rainstorm the empire state building sways several feet to either side.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 23452
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Virginia beach
+Bot: The weather in virginia beach is 82.15 degrees fahrenheit or 27.86 degrees celsius with broken clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: On average, americans eat 18 acres of pizza everyday.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What's blue and not very heavy?  light blue.
+Bot: Would you like to try again?
+Human: That's funny!
+Bot: Sorry, i didn't get that.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

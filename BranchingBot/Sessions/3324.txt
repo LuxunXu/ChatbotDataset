@@ -1,0 +1,87 @@
+Log 3324
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: London
+Bot: The weather in london is 62.60 degrees fahrenheit or 17.00 degrees celsius with broken clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The sweat drops drawn in cartoon comic strips are called pleuts.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: When you have a bladder infection, urine trouble.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Kiev
+Bot: The weather in kiev is 58.39 degrees fahrenheit or 14.66 degrees celsius with light intensity shower rain.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Paris
+Bot: The weather in paris is 69.78 degrees fahrenheit or 20.99 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: “doctor, i’ve broken my arm in several places” doctor “well don’t go to those places.”
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: I've just written a song about a tortilla. well, it is more of a rap really.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The pupils of a goat`s eyes are square.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: On average, people fear spiders more than they do death.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Moscow
+Bot: The weather in moscow is 55.83 degrees fahrenheit or 13.24 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: I went to the doctor today and he told me i had type a blood but it was a type o.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: They tried to make a diamond shaped like a duck. it quacked under the pressure.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Two-thirds of the world`s eggplant is grown in new jersey.  
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Oslo
+Bot: The weather in oslo is 60.80 degrees fahrenheit or 16.00 degrees celsius with light rain.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Leather is great for sneaking around because it's made of hide.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

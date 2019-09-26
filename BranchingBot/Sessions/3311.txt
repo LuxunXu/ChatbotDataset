@@ -1,0 +1,19 @@
+Log 3311
+Bot: What would you like to know?
+Human: Joke
+Bot: I used to be a banker, but i lost interest.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Bartlesville
+Bot: The weather in bartlesville is 69.37 degrees fahrenheit or 20.76 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The first song played on armed forces radio during operation desert shield was 'rock the casba' by the clash.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

@@ -1,0 +1,29 @@
+Log 3249
+Bot: What would you like to know?
+Human: Joke
+Bot: Man, i really love my furniture... me and my recliner go way back.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: If one spells out numbers, they would have to count to one thousand before coming across the letter 'a'.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Fayetteville, arkansas
+Bot: The weather in fayetteville is 66.51 degrees fahrenheit or 19.17 degrees celsius with overcast clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What's the worst part about being a cross-eyed teacher?they can't control their pupils.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: For some time frederic chopin, the composer and pianist, wore a beard on only one side of his face, explaining: 'it does not matter, my audience sees only my right side.'
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

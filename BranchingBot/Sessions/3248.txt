@@ -1,0 +1,96 @@
+Log 3248
+Bot: What would you like to know?
+Human: Tell me a joke
+Bot: I hate perforated lines, they're tearable.
+Bot: Would you like to try again?
+Human: That was funny. yes.
+Bot: What would you like to know?
+Human: Tell me another joke
+Bot: I fear for the calendar, it’s days are numbered.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: I want to know and interesting fact
+Bot: The first episode of 'joanie loves chachi' was the highest rated american program in the history of korean television, a country where 'chachi' translates to 'penis'.  
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Another fact please
+Bot: A bull can inseminate 300 cows from one single ejaculation.
+Bot: Would you like to try again?
+Human: Yes. another fact please
+Bot: What would you like to know?
+Human: Another fact if you don't mind
+Bot: On an american one-dollar bill, there is an owl in the upper left-hand corner of the '1'encased in the 'shield' and a spider hidden in the front upper right-hand corner.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Tell me about the weather
+Bot: Please enter the location.
+Human: Boyds, maryland
+Bot: The weather in boyds is 61.28 degrees fahrenheit or 16.27 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: What is the weather like in melbourne australia
+Bot: Please enter the location.
+Human: Melbourne australia
+Bot: The weather in melbourne is 62.60 degrees fahrenheit or 17.00 degrees celsius with overcast clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Mumbai india
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Lahore
+Bot: The weather in lahore is 80.60 degrees fahrenheit or 27.00 degrees celsius with drizzle.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: London england
+Bot: The weather in london is 58.39 degrees fahrenheit or 14.66 degrees celsius with light rain.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Ulaan batoor
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Honolulu
+Bot: The weather in honolulu is 84.11 degrees fahrenheit or 28.95 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: I don't trust stairs. they're always up to something.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Why did the house go to the doctor? it was having window panes.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Why do choirs keep buckets handy? so they can carry their tune
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: It`s possible to lead a cow upstairs but not downstairs.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

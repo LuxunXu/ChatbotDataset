@@ -1,0 +1,12 @@
+Log 3250
+Bot: What would you like to know?
+Human: Joke
+Bot: What kind of dog lives in a particle accelerator? a fermilabrador retriever.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: A shark is the only fish that can blink with both eyes.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

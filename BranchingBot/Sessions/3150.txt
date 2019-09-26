@@ -1,0 +1,26 @@
+Log 3150
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Asia
+Bot: The weather in asia is 80.41 degrees fahrenheit or 26.90 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Where does fonzie like to go for lunch? chick-fil-eyyyyyyyy.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Celery has negative calories! it takes more calories to eat a piece of celery than the celery has in it.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Tamilnadu
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

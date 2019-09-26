@@ -1,0 +1,32 @@
+Log 3332
+Bot: What would you like to know?
+Human: Joke
+Bot: Did you hear about the cow who jumped over the barbed wire fence? it was udder destruction.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Have you heard about the film 'constipation', you probably haven't because it's not out yet.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Do you want a brief explanation of what an acorn is? in a nutshell, it's an oak tree.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 85713
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Tucson, az
+Bot: The weather in tucson is 98.06 degrees fahrenheit or 36.70 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The u.s. military operates 234 golf courses
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

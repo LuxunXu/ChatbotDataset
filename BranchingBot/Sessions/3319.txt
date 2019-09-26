@@ -1,0 +1,12 @@
+Log 3319
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Yoink
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: Yonkers
+Bot: Sorry, i didn't get that.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

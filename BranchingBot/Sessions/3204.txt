@@ -1,0 +1,12 @@
+Log 3204
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 32060
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Live oak, florida
+Bot: The weather in live oak is 88.25 degrees fahrenheit or 31.25 degrees celsius with broken clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

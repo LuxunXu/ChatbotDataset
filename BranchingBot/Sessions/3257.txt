@@ -1,0 +1,12 @@
+Log 3257
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 48040
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Paris, france
+Bot: The weather in paris is 53.58 degrees fahrenheit or 11.99 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

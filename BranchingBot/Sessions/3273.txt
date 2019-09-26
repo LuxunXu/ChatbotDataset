@@ -1,0 +1,14 @@
+Log 3273
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: San jose
+Bot: The weather in san jose is 59.14 degrees fahrenheit or 15.08 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

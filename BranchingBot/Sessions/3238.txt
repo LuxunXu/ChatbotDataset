@@ -1,0 +1,41 @@
+Log 3238
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 29625
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Anderson south carolina
+Bot: The weather in anderson is 86.95 degrees fahrenheit or 30.53 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: I fear for the calendar, it’s days are numbered.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Blueberry jelly bellies were created especially for ronald reagan.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Paris france
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Pickens south carolina
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

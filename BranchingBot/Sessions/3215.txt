@@ -1,0 +1,24 @@
+Log 3215
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Oceanside, ny
+Bot: The weather in oceanside is 67.17 degrees fahrenheit or 19.54 degrees celsius with light rain.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Two peanuts were walking down the street. one was a salted.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The highest per capita jell-o comsumption in the us is des moines.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: A cannibal is someone who is fed up with people.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

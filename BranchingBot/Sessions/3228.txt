@@ -1,0 +1,7 @@
+Log 3228
+Bot: What would you like to know?
+Human: Joke
+Bot: What’s brown and sounds like a bell? dung!
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

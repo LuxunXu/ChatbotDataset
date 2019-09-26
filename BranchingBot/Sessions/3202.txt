@@ -1,0 +1,11 @@
+Log 3202
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Florida
+Bot: The weather in florida is 87.31 degrees fahrenheit or 30.73 degrees celsius with thunderstorm.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: To the guy who invented zero... thanks for nothing.

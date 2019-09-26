@@ -1,0 +1,36 @@
+Log 3274
+Bot: What would you like to know?
+Human: Joke
+Bot: What's the difference between a hippo and a zippo? one is really heavy, the other is a little lighter.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: In 1778, fashionable women of paris never went out in blustery weather without a lightning rod attached to their hats.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Los angeles
+Bot: The weather in los angeles is 71.01 degrees fahrenheit or 21.67 degrees celsius with mist.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: I met this girl on a dating site and, i don't know, we just clicked.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Paris
+Bot: The weather in paris is 62.08 degrees fahrenheit or 16.71 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: Camels have three eyelids to protect themselves from blowing sand!
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

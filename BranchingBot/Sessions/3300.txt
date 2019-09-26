@@ -1,0 +1,9 @@
+Log 3300
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Bangalore
+Bot: The weather in bangalore is 76.05 degrees fahrenheit or 24.47 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

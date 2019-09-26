@@ -1,0 +1,12 @@
+Log 3222
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 08889
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Whitehouse station, new jersey
+Bot: The weather in whitehouse station is 65.28 degrees fahrenheit or 18.49 degrees celsius with light rain.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

@@ -1,0 +1,14 @@
+Log 3186
+Bot: What would you like to know?
+Human: Fact
+Bot: It`s against the law to doze off under a hair dryer in florida/against the law to slap an old friend on the back in georgia/against the law to play hopscotch on a sunday in missouri.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Chicago
+Bot: The weather in chicago is 66.97 degrees fahrenheit or 19.43 degrees celsius with overcast clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

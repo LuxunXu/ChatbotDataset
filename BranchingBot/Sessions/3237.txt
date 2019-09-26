@@ -1,0 +1,9 @@
+Log 3237
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: New york, new york
+Bot: The weather in new york is 62.82 degrees fahrenheit or 17.12 degrees celsius with light rain.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

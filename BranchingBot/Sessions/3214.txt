@@ -1,0 +1,12 @@
+Log 3214
+Bot: What would you like to know?
+Human: Joke
+Bot: Have you heard the rumor going around about butter? never mind, i shouldn't spread it.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: It costs more to buy a new car today in the united states than it cost christopher columbus to equip and undertake three voyages to and from the new world.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

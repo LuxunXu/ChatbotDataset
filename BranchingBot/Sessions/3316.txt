@@ -1,0 +1,27 @@
+Log 3316
+Bot: What would you like to know?
+Human: Joke
+Bot: They laughed when i said i wanted to be a comedian – they’re not laughing now.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: There is approximately one chicken for every human being in the world.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Huston
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: New york
+Bot: The weather in new york is 59.74 degrees fahrenheit or 15.41 degrees celsius with light rain.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: What's orange and sounds like a parrot? a carrot.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

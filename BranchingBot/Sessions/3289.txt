@@ -1,0 +1,9 @@
+Log 3289
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Memphis tn
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

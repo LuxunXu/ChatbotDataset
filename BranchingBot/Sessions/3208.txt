@@ -1,0 +1,19 @@
+Log 3208
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Perth
+Bot: The weather in perth is 52.38 degrees fahrenheit or 11.32 degrees celsius with few clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The letters kgb stand for komitet gosudarstvennoy bezopasnosti.  
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Did you hear about the guy whose whole left side was cut off? he's all right now.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

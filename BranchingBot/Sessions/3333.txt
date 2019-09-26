@@ -1,0 +1,19 @@
+Log 3333
+Bot: What would you like to know?
+Human: Joke
+Bot: A skeleton walked into a bar he said i need a beer and a mop
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Fact
+Bot: The average person`s left hand does 56% of the typing.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Uk
+Bot: The weather in united kingdom of great britain and northern ireland is 50.00 degrees fahrenheit or 10.00 degrees celsius with overcast clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

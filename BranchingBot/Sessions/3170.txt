@@ -1,0 +1,12 @@
+Log 3170
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 28376
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Raeford, north carolina
+Bot: The weather in raeford is 86.05 degrees fahrenheit or 30.03 degrees celsius with broken clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

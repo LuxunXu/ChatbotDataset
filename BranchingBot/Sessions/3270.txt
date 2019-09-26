@@ -1,0 +1,14 @@
+Log 3270
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Chicago
+Bot: The weather in chicago is 63.09 degrees fahrenheit or 17.27 degrees celsius with scattered clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: My boss told me that he was going to fire the person with the worst posture. i have a hunch, it might be me.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

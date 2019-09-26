@@ -1,0 +1,9 @@
+Log 3287
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Italy
+Bot: The weather in italian republic is 84.16 degrees fahrenheit or 28.98 degrees celsius with few clouds.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

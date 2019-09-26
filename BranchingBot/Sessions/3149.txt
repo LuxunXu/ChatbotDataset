@@ -1,0 +1,28 @@
+Log 3149
+Bot: What would you like to know?
+Human: Joke
+Bot: What do you call a bee that lives in america? a usb.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: A book just fell on my head. i only have my shelf to blame.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Chennai
+Bot: The weather in chennai is 89.60 degrees fahrenheit or 32.00 degrees celsius with few clouds.
+Bot: Would you like to try again?
+Bot: What would you like to know?
+Human: Joke
+Bot: Just watched a documentary about beavers… it was the best damn program i’ve ever seen.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Comedians who tell one too many lightbulb jokes soon burn out.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

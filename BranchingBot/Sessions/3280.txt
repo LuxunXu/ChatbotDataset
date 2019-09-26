@@ -1,0 +1,14 @@
+Log 3280
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Queen creek, arizona
+Bot: The weather in queen creek is 83.68 degrees fahrenheit or 28.71 degrees celsius with few clouds.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Dad died because he couldn't remember his blood type. i will never forget his last words. be positive.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

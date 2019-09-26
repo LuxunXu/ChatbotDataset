@@ -1,0 +1,19 @@
+Log 3182
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: Concord nh
+Bot: Cannot get weather.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Weather
+Bot: Please enter the location.
+Human: 03301
+Bot: Sorry, i didn't get that.
+Bot: Please enter the location.
+Human: Concord new hampshire
+Bot: The weather in concord is 66.18 degrees fahrenheit or 18.99 degrees celsius with clear sky.
+Bot: Would you like to try again?
+Human: No
+Bot: Thanks!

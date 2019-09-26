@@ -1,0 +1,15 @@
+Log 3241
+Bot: What would you like to know?
+Human: Joke
+Bot: Toasters were the first form of pop-up notifications.
+Bot: Would you like to try again?
+Human: Yes
+Bot: What would you like to know?
+Human: Joke
+Bot: Why did sweden start painting barcodes on the sides of their battleships? so they could scandinavian.
+Bot: Would you like to try again?
+Human: That was funny
+Bot: Sorry, i didn't get that.
+Bot: Would you like to try again?
+Human: Tell me another joke
+Bot: Thanks!
